@@ -1,0 +1,842 @@
+{
+  "product_name": "ProPrompt Master Collection",
+  "subtitle": "200 Professional AI Prompts for Students, Creators & Professionals",
+  "price": 1000,
+  "currency": "PKR",
+  "categories": [
+    {
+      "name": "Students & Educators",
+      "icon": "📚",
+      "description": "Master your studies and teaching with these educational prompts",
+      "prompts": [
+        {
+          "title": "Essay Structure Analyzer",
+          "prompt": "Analyze this essay topic: [TOPIC]. Provide: 1) Three unique thesis statements, 2) Five main arguments with supporting evidence suggestions, 3) Counter-arguments to address, 4) A recommended structure with paragraph breakdown, 5) Key sources to research.",
+          "use_case": "Planning academic essays"
+        },
+        {
+          "title": "Complex Concept Explainer",
+          "prompt": "Explain [CONCEPT] as if teaching to: 1) A 10-year-old, 2) A college student, 3) An expert. Include real-world examples, common misconceptions, and memory techniques for each level.",
+          "use_case": "Understanding difficult topics"
+        },
+        {
+          "title": "Study Schedule Optimizer",
+          "prompt": "I have [NUMBER] days until my exam on [SUBJECT]. I study best [MORNING/AFTERNOON/EVENING]. Create a detailed study schedule with: topic breakdown, active recall sessions, practice test timings, and rest periods.",
+          "use_case": "Exam preparation planning"
+        },
+        {
+          "title": "Research Paper Outliner",
+          "prompt": "For a research paper on [TOPIC] with [WORD COUNT] words: Generate 1) Research questions, 2) Methodology suggestions, 3) Literature review structure, 4) Data analysis approach, 5) Discussion points template.",
+          "use_case": "Academic research planning"
+        },
+        {
+          "title": "Lecture Notes Summarizer",
+          "prompt": "Transform these lecture notes into: 1) Key concepts list with definitions, 2) Visual diagram suggestions, 3) Flashcard pairs (Q&A), 4) Practice questions, 5) Real-world applications. Notes: [PASTE NOTES]",
+          "use_case": "Processing lecture content"
+        },
+        {
+          "title": "Assignment Feedback Analyzer",
+          "prompt": "Review this assignment feedback: [FEEDBACK]. Provide: 1) Main improvement areas, 2) Action steps for each point, 3) Resources to address weaknesses, 4) A rewrite strategy, 5) Questions to ask the instructor.",
+          "use_case": "Improving from feedback"
+        },
+        {
+          "title": "Thesis Statement Generator",
+          "prompt": "Topic: [TOPIC]. Generate 5 strong thesis statements that are: argumentative, specific, debatable, and clearly structured. For each, include the main supporting arguments.",
+          "use_case": "Starting research papers"
+        },
+        {
+          "title": "Citation Format Helper",
+          "prompt": "Convert this source into citations: [SOURCE DETAILS]. Provide formatted citations in: APA 7th, MLA 9th, Chicago 17th, and Harvard styles. Include both in-text and bibliography formats.",
+          "use_case": "Proper source citation"
+        },
+        {
+          "title": "Group Project Coordinator",
+          "prompt": "Group project: [DESCRIPTION]. Team size: [NUMBER]. Timeline: [DURATION]. Create: 1) Role assignments with responsibilities, 2) Milestone schedule, 3) Communication protocol, 4) Conflict resolution guidelines, 5) Quality checkpoints.",
+          "use_case": "Managing team assignments"
+        },
+        {
+          "title": "Exam Question Predictor",
+          "prompt": "Based on this syllabus [PASTE SYLLABUS] and these past topics [TOPICS], predict 10 likely exam questions with: difficulty level, topic coverage, and suggested answer approaches.",
+          "use_case": "Exam preparation"
+        },
+        {
+          "title": "Literature Analysis Framework",
+          "prompt": "Analyze [BOOK/POEM/PLAY] focusing on: 1) Theme identification with textual evidence, 2) Character development arcs, 3) Literary devices and their effects, 4) Historical context impact, 5) Critical interpretation perspectives.",
+          "use_case": "Literature studies"
+        },
+        {
+          "title": "Math Problem Solver",
+          "prompt": "Problem: [MATH PROBLEM]. Provide: 1) Step-by-step solution with explanations, 2) Alternative solving methods, 3) Common mistakes to avoid, 4) Related practice problems, 5) Real-world application.",
+          "use_case": "Mathematics learning"
+        },
+        {
+          "title": "Language Learning Planner",
+          "prompt": "Learning [LANGUAGE] for [PURPOSE]. Current level: [LEVEL]. Create a 90-day plan with: daily activities, resources, milestones, cultural immersion ideas, and progress tracking methods.",
+          "use_case": "Language acquisition"
+        },
+        {
+          "title": "Science Lab Report Writer",
+          "prompt": "Experiment: [TITLE]. Data: [RESULTS]. Create a complete lab report with: Introduction, Methodology, Results (with graph suggestions), Discussion, Conclusion, and Error analysis.",
+          "use_case": "Science documentation"
+        },
+        {
+          "title": "Presentation Content Organizer",
+          "prompt": "Presentation topic: [TOPIC]. Duration: [MINUTES]. Audience: [AUDIENCE]. Structure the content with: Opening hook, main points with timing, visual suggestions, transitions, and memorable conclusion.",
+          "use_case": "Academic presentations"
+        },
+        {
+          "title": "Critical Thinking Enhancer",
+          "prompt": "Argument: [STATEMENT]. Analyze using: 1) Logical structure examination, 2) Evidence quality assessment, 3) Hidden assumptions identification, 4) Counter-arguments, 5) Strength/weakness evaluation.",
+          "use_case": "Developing analysis skills"
+        },
+        {
+          "title": "Reading Comprehension Booster",
+          "prompt": "Text: [PASSAGE]. Generate: 1) Main idea summary, 2) Supporting details extraction, 3) Inference questions with answers, 4) Vocabulary in context, 5) Author's purpose analysis.",
+          "use_case": "Reading improvement"
+        },
+        {
+          "title": "Time Management for Students",
+          "prompt": "My commitments: [LIST CLASSES, ACTIVITIES]. Goals: [GOALS]. Create a weekly schedule with: study blocks, assignment deadlines, self-care time, and flexibility buffers.",
+          "use_case": "Student scheduling"
+        },
+        {
+          "title": "Scholarship Essay Writer",
+          "prompt": "Scholarship: [NAME]. Prompt: [QUESTION]. My story: [BRIEF BACKGROUND]. Create an essay outline with: compelling opening, unique angle, specific achievements, future vision, and strong closing.",
+          "use_case": "Scholarship applications"
+        },
+        {
+          "title": "Debate Argument Builder",
+          "prompt": "Motion: [DEBATE TOPIC]. Side: [FOR/AGAINST]. Generate: 1) Three main arguments with evidence, 2) Rebuttals to opposing points, 3) Opening statement, 4) Closing statement, 5) Q&A preparation.",
+          "use_case": "Debate preparation"
+        },
+        {
+          "title": "Online Course Note-taker",
+          "prompt": "Online course: [COURSE NAME]. Module: [TOPIC]. Convert video content into: 1) Structured notes with timestamps, 2) Key takeaways, 3) Action items, 4) Additional research topics, 5) Quiz questions.",
+          "use_case": "Online learning"
+        },
+        {
+          "title": "College Application Essay Coach",
+          "prompt": "Essay prompt: [PROMPT]. My experiences: [BRIEF LIST]. Generate: 1) Three unique story angles, 2) Outline for each angle, 3) Vivid detail suggestions, 4) Reflection points, 5) Authenticity checks.",
+          "use_case": "University applications"
+        },
+        {
+          "title": "Procrastination Breaker",
+          "prompt": "Task I'm avoiding: [TASK]. Why I'm avoiding it: [REASON]. Create: 1) 5-minute starting ritual, 2) Task breakdown into tiny steps, 3) Reward system, 4) Accountability method, 5) Completion celebration plan.",
+          "use_case": "Overcoming delays"
+        },
+        {
+          "title": "Study Group Facilitator",
+          "prompt": "Subject: [SUBJECT]. Study group size: [NUMBER]. Create: 1) Effective discussion questions, 2) Teaching rotation schedule, 3) Practice activities, 4) Progress tracking method, 5) Group norms.",
+          "use_case": "Collaborative learning"
+        },
+        {
+          "title": "Historical Event Analyzer",
+          "prompt": "Event: [HISTORICAL EVENT]. Analyze: 1) Causes (short and long-term), 2) Key figures and their roles, 3) Timeline of developments, 4) Immediate and lasting impacts, 5) Historical debate points.",
+          "use_case": "History studies"
+        },
+        {
+          "title": "Concept Map Creator",
+          "prompt": "Central concept: [CONCEPT]. Generate a concept map structure with: 1) Main concept breakdown, 2) Relationships between ideas, 3) Examples for each branch, 4) Cross-connections, 5) Visual organization suggestions.",
+          "use_case": "Visual learning"
+        },
+        {
+          "title": "Lesson Plan Designer",
+          "prompt": "Subject: [SUBJECT]. Grade: [LEVEL]. Topic: [TOPIC]. Duration: [TIME]. Create a lesson plan with: Learning objectives, engaging opening, main activities, assessment methods, differentiation strategies, and closure.",
+          "use_case": "Teaching preparation"
+        },
+        {
+          "title": "Assignment Prioritizer",
+          "prompt": "My assignments: [LIST WITH DUE DATES]. Consider: importance, difficulty, time needed. Create prioritized schedule with: daily tasks, time allocations, buffer periods, and stress management breaks.",
+          "use_case": "Workload management"
+        },
+        {
+          "title": "Memory Technique Applicator",
+          "prompt": "Information to memorize: [CONTENT]. Create: 1) Mnemonics, 2) Story-based memory palace, 3) Acronyms, 4) Visual associations, 5) Chunking strategies, 6) Spaced repetition schedule.",
+          "use_case": "Memorization help"
+        },
+        {
+          "title": "Test-Taking Strategy Builder",
+          "prompt": "Test type: [FORMAT]. Subject: [SUBJECT]. Common challenges: [ISSUES]. Develop strategies for: time management, question approach, stress management, checking work, and handling difficult questions.",
+          "use_case": "Exam performance"
+        },
+        {
+          "title": "Research Source Evaluator",
+          "prompt": "Source: [URL OR CITATION]. Evaluate for: 1) Author credibility, 2) Publication reliability, 3) Bias identification, 4) Currency and relevance, 5) Evidence quality, 6) Recommendation (use/skip).",
+          "use_case": "Source validation"
+        },
+        {
+          "title": "Learning Style Optimizer",
+          "prompt": "Subject struggling with: [SUBJECT]. Describe how you learn best: [LEARNING PREFERENCES]. Create a personalized study approach with: specific techniques, resources, activities, and practice methods.",
+          "use_case": "Personalized learning"
+        },
+        {
+          "title": "Classroom Participation Enhancer",
+          "prompt": "Class: [SUBJECT]. Current topic: [TOPIC]. Generate: 1) Insightful questions to ask, 2) Discussion contribution ideas, 3) Connection points to previous lessons, 4) Respectful challenge statements, 5) Clarification requests.",
+          "use_case": "Active participation"
+        },
+        {
+          "title": "Peer Review Giver",
+          "prompt": "Reviewing peer's work on [TOPIC]. Their draft: [SUMMARY]. Provide constructive feedback on: 1) Strengths, 2) Areas for improvement, 3) Specific suggestions, 4) Questions for clarification, 5) Encouragement.",
+          "use_case": "Peer assessment"
+        },
+        {
+          "title": "Career Exploration for Students",
+          "prompt": "My interests: [INTERESTS]. My strengths: [STRENGTHS]. Studying: [MAJOR]. Explore career paths with: job descriptions, required skills, typical progression, salary ranges in Pakistan, and action steps.",
+          "use_case": "Career planning"
+        },
+        {
+          "title": "Note-Taking System Designer",
+          "prompt": "Subject: [SUBJECT]. Learning style: [STYLE]. Create a note-taking system with: template structure, color coding, symbol key, review schedule, and digital/analog tool recommendations.",
+          "use_case": "Organized notes"
+        },
+        {
+          "title": "Online Research Navigator",
+          "prompt": "Research question: [QUESTION]. Guide me through: 1) Search strategy with keywords, 2) Reliable database suggestions, 3) Source type priorities, 4) Information synthesis approach, 5) Citation organization.",
+          "use_case": "Digital research"
+        },
+        {
+          "title": "Academic Vocabulary Builder",
+          "prompt": "Field: [ACADEMIC FIELD]. Provide: 1) 20 essential terms with definitions, 2) Usage examples, 3) Related terms, 4) Practice sentences, 5) Memory techniques for each term.",
+          "use_case": "Subject vocabulary"
+        },
+        {
+          "title": "Extra Credit Opportunity Creator",
+          "prompt": "Class: [SUBJECT]. Struggling with: [TOPIC]. Propose extra credit project ideas that: demonstrate understanding, go beyond requirements, are feasible, and show genuine effort.",
+          "use_case": "Grade improvement"
+        },
+        {
+          "title": "Parent-Teacher Conference Preparer",
+          "prompt": "For [STUDENT] in [GRADE]. Prepare: 1) Key achievements to highlight, 2) Challenges to discuss, 3) Questions to ask teachers, 4) Goals to set, 5) Follow-up action plan.",
+          "use_case": "School communication"
+        },
+        {
+          "title": "Textbook Chapter Digester",
+          "prompt": "Chapter: [CHAPTER TITLE] from [TEXTBOOK]. Create: 1) Chapter summary, 2) Key terms glossary, 3) Main concepts with examples, 4) Self-test questions, 5) Connections to previous chapters.",
+          "use_case": "Textbook studying"
+        },
+        {
+          "title": "Discussion Board Responder",
+          "prompt": "Discussion prompt: [PROMPT]. Original post: [POST]. Create a thoughtful response that: adds new perspective, references course material, asks engaging questions, and maintains respectful tone.",
+          "use_case": "Online class participation"
+        },
+        {
+          "title": "Internship Application Helper",
+          "prompt": "Internship: [POSITION]. Requirements: [REQUIREMENTS]. My background: [BRIEF SUMMARY]. Create: 1) Tailored cover letter outline, 2) Resume bullet points, 3) Interview preparation, 4) Questions to ask, 5) Follow-up strategy.",
+          "use_case": "Internship seeking"
+        },
+        {
+          "title": "Final Exam Consolidator",
+          "prompt": "Course: [COURSE NAME]. All topics covered: [LIST TOPICS]. Create a comprehensive final exam study guide with: topic hierarchy, key concepts per topic, likely question types, and study priority ranking.",
+          "use_case": "Comprehensive exam prep"
+        },
+        {
+          "title": "Academic Goal Setter",
+          "prompt": "Current GPA: [GPA]. Target: [GOAL]. Timeline: [SEMESTER/YEAR]. Create an action plan with: specific grade goals per class, study hour targets, support resources needed, and progress checkpoints.",
+          "use_case": "Academic improvement"
+        },
+        {
+          "title": "Classroom Technology Guide",
+          "prompt": "Assignment requires: [TECHNOLOGY/SOFTWARE]. I'm unfamiliar with it. Provide: 1) Basic tutorial steps, 2) Tips for this specific assignment, 3) Common mistakes to avoid, 4) Where to get help, 5) Alternative tools.",
+          "use_case": "Tech learning"
+        },
+        {
+          "title": "Study Break Optimizer",
+          "prompt": "Been studying [SUBJECT] for [HOURS]. Create a 15-minute break routine that: refreshes mentally, reduces physical strain, boosts energy, and helps retention. Include timing for each activity.",
+          "use_case": "Healthy studying"
+        },
+        {
+          "title": "Assessment Reflection Guide",
+          "prompt": "Just received grade on [ASSIGNMENT/TEST]. Grade: [GRADE]. Expected: [EXPECTED]. Facilitate reflection on: what went well, what didn't, root causes, improvement strategies, and next steps.",
+          "use_case": "Learning from results"
+        },
+        {
+          "title": "Reading List Manager",
+          "prompt": "Course reading list: [LIST TITLES]. Time available: [WEEKS]. Create reading schedule with: daily page targets, priority ranking, note-taking approach, comprehension checks, and discussion prep.",
+          "use_case": "Reading organization"
+        },
+        {
+          "title": "Academic Integrity Checker",
+          "prompt": "Working on [ASSIGNMENT TYPE]. Clarify the boundaries: 1) What collaboration is allowed, 2) How to properly cite, 3) Paraphrasing vs plagiarism, 4) AI tool usage policies, 5) When to ask professor.",
+          "use_case": "Ethical guidelines"
+        }
+      ]
+    },
+    {
+      "name": "Creative Professionals",
+      "icon": "🎨",
+      "description": "Unleash your creativity with prompts for writers, designers, and artists",
+      "prompts": [
+        {
+          "title": "Story Concept Generator",
+          "prompt": "Genre: [GENRE]. Themes: [THEMES]. Generate 5 unique story concepts with: protagonist description, central conflict, plot twist potential, setting details, and emotional arc.",
+          "use_case": "Fiction writing"
+        },
+        {
+          "title": "Character Development Deep-Dive",
+          "prompt": "Character name: [NAME]. Role: [ROLE IN STORY]. Create comprehensive profile: backstory, personality traits, fears and desires, character arc, unique quirks, speaking style, relationships, and a defining moment.",
+          "use_case": "Character creation"
+        },
+        {
+          "title": "Writer's Block Breaker",
+          "prompt": "Stuck at: [DESCRIBE SCENE/SITUATION]. Story so far: [BRIEF SUMMARY]. Generate 5 different directions to continue, each with: action sequence, dialogue starter, plot development, and potential consequences.",
+          "use_case": "Overcoming creative blocks"
+        },
+        {
+          "title": "Brand Voice Creator",
+          "prompt": "Brand: [BRAND NAME]. Industry: [INDUSTRY]. Target audience: [AUDIENCE]. Values: [VALUES]. Define brand voice with: tone characteristics, vocabulary guidelines, sentence structure, things to avoid, and 10 example phrases.",
+          "use_case": "Brand identity"
+        },
+        {
+          "title": "Social Media Content Calendar",
+          "prompt": "Platform: [PLATFORM]. Niche: [NICHE]. Goals: [GOALS]. Create 30-day content calendar with: daily post ideas, content types, optimal posting times, hashtag strategies, and engagement tactics.",
+          "use_case": "Content planning"
+        },
+        {
+          "title": "Visual Design Brief Generator",
+          "prompt": "Project: [PROJECT NAME]. Purpose: [PURPOSE]. Target audience: [AUDIENCE]. Create design brief with: style direction, color palette with hex codes, typography suggestions, mood board descriptions, and deliverable specifications.",
+          "use_case": "Design planning"
+        },
+        {
+          "title": "Headline Multiplier",
+          "prompt": "Topic: [TOPIC]. Article focus: [MAIN POINT]. Generate 20 headlines in different styles: clickbait, SEO-optimized, emotional, curiosity-driven, list-based, question-based, controversial, and straightforward.",
+          "use_case": "Title creation"
+        },
+        {
+          "title": "Portfolio Project Selector",
+          "prompt": "My skills: [SKILLS]. Industry: [INDUSTRY]. Experience level: [LEVEL]. Suggest 5 portfolio projects that: showcase abilities, are achievable, impress clients, demonstrate range, and have clear outcomes.",
+          "use_case": "Portfolio building"
+        },
+        {
+          "title": "Creative Brief Analyzer",
+          "prompt": "Client brief: [PASTE BRIEF]. Analyze and clarify: 1) Core objectives, 2) Hidden expectations, 3) Potential challenges, 4) Questions to ask client, 5) Success metrics, 6) Recommended approach.",
+          "use_case": "Client projects"
+        },
+        {
+          "title": "Video Script Outliner",
+          "prompt": "Video topic: [TOPIC]. Length: [DURATION]. Platform: [YOUTUBE/INSTAGRAM/TIKTOK]. Create script outline with: hook (0-5s), value proposition, main points with timing, call-to-action, and visual suggestions.",
+          "use_case": "Video content"
+        },
+        {
+          "title": "Copywriting Formula Applicator",
+          "prompt": "Product/service: [DESCRIPTION]. Target pain point: [PAIN POINT]. Apply these copywriting formulas: AIDA, PAS, FAB, 4Ps, and generate copy variations for each formula.",
+          "use_case": "Sales copy"
+        },
+        {
+          "title": "Creative Concept Brainstormer",
+          "prompt": "Campaign for: [PRODUCT/SERVICE]. Audience: [AUDIENCE]. Constraint: [BUDGET/TIME/PLATFORM]. Generate 10 creative concepts with: big idea, execution details, why it works, and potential ROI.",
+          "use_case": "Campaign ideation"
+        },
+        {
+          "title": "Typography Pairing Guide",
+          "prompt": "Project: [PROJECT TYPE]. Mood: [MOOD/FEELING]. Brand personality: [PERSONALITY]. Suggest 5 font pairings with: heading font, body font, rationale, usage guidelines, and free/paid alternatives.",
+          "use_case": "Design typography"
+        },
+        {
+          "title": "Art Style Explorer",
+          "prompt": "Project brief: [BRIEF]. Explore 5 distinct art styles with: style description, visual characteristics, color approach, famous examples, tools/techniques needed, and suitability rating for this project.",
+          "use_case": "Visual art direction"
+        },
+        {
+          "title": "Dialogue Naturalization",
+          "prompt": "Character: [CHARACTER]. Situation: [SITUATION]. Current dialogue: [DIALOGUE]. Rewrite to sound natural with: subtext, realistic interruptions, speech patterns, emotional undertones, and character voice consistency.",
+          "use_case": "Dialogue writing"
+        },
+        {
+          "title": "Newsletter Content Strategist",
+          "prompt": "Newsletter theme: [THEME]. Frequency: [WEEKLY/MONTHLY]. Audience: [AUDIENCE]. Create content strategy with: section breakdown, content types, tone guidelines, recurring elements, and 10 edition ideas.",
+          "use_case": "Email marketing"
+        },
+        {
+          "title": "Logo Concept Developer",
+          "prompt": "Company: [NAME]. Industry: [INDUSTRY]. Values: [VALUES]. Target impression: [IMPRESSION]. Generate 5 logo concepts with: design direction, symbolism, color psychology, typography approach, and versatility notes.",
+          "use_case": "Logo design"
+        },
+        {
+          "title": "Plot Twist Generator",
+          "prompt": "Story setup: [BRIEF PLOT SUMMARY]. Genre: [GENRE]. Generate 5 plot twists that: make sense in retrospect, subvert expectations, deepen character arcs, raise stakes, and satisfy emotionally.",
+          "use_case": "Story plotting"
+        },
+        {
+          "title": "Client Pitch Structure",
+          "prompt": "Pitching: [SERVICE/PRODUCT]. Client: [CLIENT NAME]. Industry: [INDUSTRY]. Create pitch structure with: attention-grabbing opening, problem identification, solution presentation, proof points, pricing strategy, and closing.",
+          "use_case": "Business pitches"
+        },
+        {
+          "title": "Illustration Composition Guide",
+          "prompt": "Subject: [SUBJECT]. Purpose: [PURPOSE]. Medium: [DIGITAL/TRADITIONAL]. Provide composition guidance: focal point, rule of thirds application, color balance, depth creation, visual hierarchy, and storytelling elements.",
+          "use_case": "Visual composition"
+        },
+        {
+          "title": "Blog Post Optimizer",
+          "prompt": "Draft post: [TITLE/SUMMARY]. Target keyword: [KEYWORD]. Optimize for: 1) SEO (headings, keywords, meta), 2) Readability (sentence length, paragraphs), 3) Engagement (hooks, CTAs), 4) Shareability.",
+          "use_case": "Content optimization"
+        },
+        {
+          "title": "Creative Feedback Framework",
+          "prompt": "Work to review: [DESCRIPTION]. Creator's goals: [GOALS]. Provide structured feedback: 1) What works well (specific), 2) What could improve (actionable), 3) Alternative approaches, 4) Encouraging comments.",
+          "use_case": "Giving critiques"
+        },
+        {
+          "title": "Music Lyric Assistant",
+          "prompt": "Song theme: [THEME]. Mood: [MOOD]. Genre: [GENRE]. Generate: 1) Hook/chorus ideas, 2) Verse concepts, 3) Rhyme schemes, 4) Metaphor suggestions, 5) Bridge development, 6) Title options.",
+          "use_case": "Songwriting"
+        },
+        {
+          "title": "UI/UX Flow Mapper",
+          "prompt": "App feature: [FEATURE]. User goal: [GOAL]. Map user flow with: entry point, decision points, success path, error handling, exit points, and micro-interactions. Identify friction areas.",
+          "use_case": "User experience design"
+        },
+        {
+          "title": "Photo Series Conceptualizer",
+          "prompt": "Theme: [THEME]. Medium: [PHOTOGRAPHY TYPE]. Create photo series concept with: overarching narrative, 8-10 shot list with descriptions, styling notes, lighting approach, and cohesion strategy.",
+          "use_case": "Photography planning"
+        },
+        {
+          "title": "Podcast Episode Planner",
+          "prompt": "Podcast about: [TOPIC]. Episode theme: [THEME]. Length: [DURATION]. Create episode outline with: cold open, intro, segment breakdown with timing, questions/talking points, and outro with CTA.",
+          "use_case": "Podcast production"
+        },
+        {
+          "title": "Freelance Rate Calculator",
+          "prompt": "My skills: [SKILLS]. Experience: [YEARS]. Location: [CITY]. Project type: [TYPE]. Calculate fair rate based on: market research, skill value, overhead costs, desired income, and negotiation range.",
+          "use_case": "Pricing services"
+        },
+        {
+          "title": "Creative Project Timeline",
+          "prompt": "Project: [PROJECT]. Deliverable: [DELIVERABLE]. Deadline: [DATE]. Create realistic timeline with: research phase, ideation, drafts/iterations, review periods, revision buffer, and final delivery.",
+          "use_case": "Project management"
+        },
+        {
+          "title": "Website Copywriter",
+          "prompt": "Website for: [BUSINESS]. Page: [HOME/ABOUT/SERVICE]. Audience: [AUDIENCE]. Write copy with: compelling headline, value proposition, benefit statements, social proof integration, and strong CTA.",
+          "use_case": "Web copy"
+        },
+        {
+          "title": "Color Palette Generator",
+          "prompt": "Project: [PROJECT]. Brand personality: [PERSONALITY]. Industry: [INDUSTRY]. Cultural context: [CULTURE]. Generate 5 color palettes with: hex codes, color psychology reasoning, usage hierarchy, and accessibility notes.",
+          "use_case": "Color selection"
+        },
+        {
+          "title": "Storyboard Creator",
+          "prompt": "Scene description: [SCENE]. Purpose: [PURPOSE]. Create storyboard with: 8-12 frame descriptions, camera angles, movement notes, dialogue/sound, transitions, and emotional beats.",
+          "use_case": "Visual planning"
+        },
+        {
+          "title": "Content Repurposing Strategist",
+          "prompt": "Original content: [DESCRIBE]. Platform: [PLATFORM]. Repurpose into: 1) Instagram carousel, 2) Twitter thread, 3) LinkedIn post, 4) Pinterest graphic, 5) Email snippet, 6) Short video script.",
+          "use_case": "Multi-platform content"
+        },
+        {
+          "title": "Artist Statement Writer",
+          "prompt": "My work: [MEDIUM/STYLE]. Themes: [THEMES]. Influences: [INFLUENCES]. Write artist statement covering: creative philosophy, techniques, inspiration sources, recurring themes, and artistic goals. (200-300 words)",
+          "use_case": "Professional presentation"
+        },
+        {
+          "title": "Packaging Design Brief",
+          "prompt": "Product: [PRODUCT]. Target market: [MARKET]. Shelf placement: [RETAIL ENVIRONMENT]. Create packaging brief: functional requirements, design style, branding integration, information hierarchy, and sustainability considerations.",
+          "use_case": "Package design"
+        },
+        {
+          "title": "Scene Setting Enhancer",
+          "prompt": "Scene location: [LOCATION]. Time period: [TIME]. Mood: [MOOD]. Enhance scene description using: sensory details (all 5 senses), atmospheric elements, character interaction with space, and symbolic details.",
+          "use_case": "Descriptive writing"
+        },
+        {
+          "title": "Animation Sequence Planner",
+          "prompt": "Animation: [DESCRIPTION]. Duration: [SECONDS]. Style: [STYLE]. Plan sequence with: key frames, timing breakdown, easing/motion type, layer organization, and sound effect suggestions.",
+          "use_case": "Motion graphics"
+        },
+        {
+          "title": "Exhibition Proposal Writer",
+          "prompt": "Exhibition concept: [CONCEPT]. Venue: [VENUE]. Artwork: [DESCRIPTION]. Write proposal with: curatorial statement, exhibition narrative, spatial plan, audience engagement strategy, and budget outline.",
+          "use_case": "Gallery submissions"
+        },
+        {
+          "title": "Creative Ritual Designer",
+          "prompt": "My creative challenges: [CHALLENGES]. Available time: [TIME]. Design a pre-work ritual with: environment setup, mindfulness component, inspiration gathering, warm-up exercises, and transition to deep work.",
+          "use_case": "Creative routine"
+        },
+        {
+          "title": "Conflict Escalation Mapper",
+          "prompt": "Story conflict: [CONFLICT]. Characters: [CHARACTERS]. Map conflict escalation through: initial tension, complications, turning points, crisis moment, climax, and resolution. Include emotional stakes at each stage.",
+          "use_case": "Story structure"
+        },
+        {
+          "title": "Mood Board Curator",
+          "prompt": "Project: [PROJECT]. Desired feeling: [FEELING]. References: [ANY REFERENCES]. Curate mood board description with: imagery categories, color themes, texture notes, typography examples, and overall cohesion strategy.",
+          "use_case": "Visual direction"
+        },
+        {
+          "title": "Client Onboarding Questionnaire",
+          "prompt": "Service: [SERVICE]. Create client questionnaire that uncovers: project goals, success metrics, brand personality, target audience insights, constraints, inspirations, and decision-making process.",
+          "use_case": "Client discovery"
+        },
+        {
+          "title": "Writing Style Matcher",
+          "prompt": "Target style: [AUTHOR/PUBLICATION]. My content: [TOPIC]. Analyze target style for: sentence structure, vocabulary level, pacing, point of view, humor/tone, and provide rewriting guidelines with examples.",
+          "use_case": "Style adaptation"
+        },
+        {
+          "title": "Creative Block Diagnosis",
+          "prompt": "I'm stuck on: [PROJECT]. Feeling: [EMOTION]. Usually work best when: [CONDITIONS]. Diagnose likely block cause: perfectionism, unclear direction, skill gap, burnout, fear. Provide specific solutions for each.",
+          "use_case": "Problem solving"
+        },
+        {
+          "title": "Print Design Specifier",
+          "prompt": "Print project: [PROJECT TYPE]. Size: [SIZE]. Quantity: [QUANTITY]. Specify print requirements: file format, resolution, color mode, bleed, fonts, paper stock recommendations, and pre-flight checklist.",
+          "use_case": "Print production"
+        },
+        {
+          "title": "Testimonial Transformer",
+          "prompt": "Raw testimonial: [TESTIMONIAL]. Transform into compelling copy by: extracting key benefit, adding emotional resonance, improving structure, maintaining authenticity, and creating different length versions (tweet, paragraph, long-form).",
+          "use_case": "Social proof"
+        },
+        {
+          "title": "Creative Collaboration Facilitator",
+          "prompt": "Team size: [NUMBER]. Project: [PROJECT]. Roles: [ROLES]. Facilitate collaboration with: role clarity, communication protocols, feedback structure, decision-making process, conflict resolution, and celebration rituals.",
+          "use_case": "Team projects"
+        },
+        {
+          "title": "Iconography System Designer",
+          "prompt": "Product: [PRODUCT]. Number of icons needed: [NUMBER]. Design system guidelines: style (line/fill/outline), size, grid, stroke weight, corner radius, color usage, and semantic categories.",
+          "use_case": "Icon design"
+        },
+        {
+          "title": "Creative Portfolio Reviewer",
+          "prompt": "Portfolio pieces: [DESCRIBE]. Target clients: [CLIENTS]. Review for: project diversity, skill demonstration, case study strength, presentation quality, personal brand consistency, and missing elements.",
+          "use_case": "Portfolio improvement"
+        },
+        {
+          "title": "Worldbuilding Framework",
+          "prompt": "Story world: [BRIEF DESCRIPTION]. Genre: [GENRE]. Build world with: geography/setting, history, social structure, economy, technology level, cultural norms, magic/science rules, and how it affects plot.",
+          "use_case": "Fantasy/sci-fi writing"
+        }
+      ]
+    },
+    {
+      "name": "General Productivity",
+      "icon": "⚡",
+      "description": "Supercharge your productivity with these professional workflow prompts",
+      "prompts": [
+        {
+          "title": "Email Draft Optimizer",
+          "prompt": "Email purpose: [PURPOSE]. Recipient: [ROLE]. Draft: [PASTE EMAIL]. Optimize for: clarity, tone appropriateness, action items, subject line, and provide 3 versions (formal, friendly, brief).",
+          "use_case": "Professional communication"
+        },
+        {
+          "title": "Meeting Agenda Designer",
+          "prompt": "Meeting topic: [TOPIC]. Attendees: [ROLES]. Duration: [TIME]. Goals: [GOALS]. Create agenda with: pre-meeting prep, timing per item, decision points, discussion facilitation notes, and follow-up actions template.",
+          "use_case": "Meeting preparation"
+        },
+        {
+          "title": "Task Prioritization Matrix",
+          "prompt": "My tasks: [LIST TASKS WITH CONTEXT]. Deadlines: [DATES]. Organize using Eisenhower Matrix (urgent/important) with: priority ranking, time estimates, dependencies, delegation opportunities, and execution order.",
+          "use_case": "Task management"
+        },
+        {
+          "title": "Decision-Making Framework",
+          "prompt": "Decision: [DECISION]. Options: [OPTIONS]. Constraints: [CONSTRAINTS]. Apply framework: 1) Define success criteria, 2) Weighted pros/cons per option, 3) Risk analysis, 4) Long-term impact, 5) Recommendation with reasoning.",
+          "use_case": "Making choices"
+        },
+        {
+          "title": "Project Kickoff Planner",
+          "prompt": "Project: [NAME]. Goals: [GOALS]. Timeline: [DURATION]. Team: [SIZE]. Create kickoff plan with: objectives, deliverables, milestones, roles, communication plan, risks, success metrics, and first-week tasks.",
+          "use_case": "Project starts"
+        },
+        {
+          "title": "Habit Formation System",
+          "prompt": "Habit to build: [HABIT]. Current routine: [ROUTINE]. Obstacles: [OBSTACLES]. Design system with: trigger, routine, reward, tracking method, accountability, micro-habits, and 30-day progressive plan.",
+          "use_case": "Building habits"
+        },
+        {
+          "title": "Difficult Conversation Preparer",
+          "prompt": "Conversation about: [TOPIC]. With: [PERSON/ROLE]. Concern: [CONCERN]. Prepare with: conversation opener, key points to cover, empathy statements, boundaries, desired outcome, and response preparation.",
+          "use_case": "Tough talks"
+        },
+        {
+          "title": "Weekly Review Template",
+          "prompt": "Reflect on the week: 1) Wins and accomplishments, 2) Challenges faced, 3) Lessons learned, 4) Incomplete items, 5) Energy/mood patterns, 6) Next week priorities, 7) One thing to improve.",
+          "use_case": "Self-reflection"
+        },
+        {
+          "title": "Process Documentation Writer",
+          "prompt": "Process: [PROCESS NAME]. Users: [WHO FOLLOWS IT]. Document with: purpose, prerequisites, step-by-step instructions, decision points, troubleshooting, examples, and version/update date.",
+          "use_case": "Creating SOPs"
+        },
+        {
+          "title": "Focus Session Structurer",
+          "prompt": "Work to do: [TASK]. Available time: [DURATION]. Distractions: [DISTRACTIONS]. Structure session with: preparation (5min), deep work blocks, strategic breaks, environment setup, distraction protocol, and wind-down.",
+          "use_case": "Deep work"
+        },
+        {
+          "title": "Goal Setting Framework",
+          "prompt": "Big goal: [GOAL]. Timeframe: [TIMEFRAME]. Make it SMART: Specific (clarify), Measurable (metrics), Achievable (reality check), Relevant (why it matters), Time-bound (milestones). Include action steps.",
+          "use_case": "Goal planning"
+        },
+        {
+          "title": "Problem-Solving Protocol",
+          "prompt": "Problem: [PROBLEM]. Impact: [IMPACT]. Apply protocol: 1) Root cause analysis (5 Whys), 2) Brainstorm solutions, 3) Evaluate options, 4) Test plan, 5) Implementation steps, 6) Success measurement.",
+          "use_case": "Solving issues"
+        },
+        {
+          "title": "Feedback Request Crafter",
+          "prompt": "Work: [WORK TYPE]. From: [PERSON]. Need feedback on: [SPECIFIC AREAS]. Craft request that: provides context, asks specific questions, sets deadline, explains how you'll use feedback, and shows appreciation.",
+          "use_case": "Seeking input"
+        },
+        {
+          "title": "Energy Management Analyzer",
+          "prompt": "Typical day: [DESCRIBE SCHEDULE]. Energy patterns: [WHEN HIGH/LOW]. Tasks: [LIST]. Optimize schedule by: matching task difficulty to energy, protecting peak hours, strategic breaks, energy-boosting activities.",
+          "use_case": "Productivity optimization"
+        },
+        {
+          "title": "Delegation Determiner",
+          "prompt": "My tasks: [LIST]. Team capacity: [DESCRIBE]. For each task, analyze: required skill level, time needed, development opportunity, my unique value-add. Recommend what to delegate, to whom, and how.",
+          "use_case": "Leadership"
+        },
+        {
+          "title": "Status Report Generator",
+          "prompt": "Project: [PROJECT]. Reporting to: [AUDIENCE]. Period: [TIMEFRAME]. Generate report with: progress summary, completed milestones, upcoming tasks, blockers/risks, support needed, and key metrics.",
+          "use_case": "Progress updates"
+        },
+        {
+          "title": "Morning Routine Optimizer",
+          "prompt": "Current routine: [DESCRIBE]. Goals: [GOALS]. Time available: [TIME]. Design optimized routine with: wake-up ritual, prioritized activities, timing, flexibility buffer, and evening prep that sets up success.",
+          "use_case": "Starting days right"
+        },
+        {
+          "title": "Boundary Setting Guide",
+          "prompt": "Boundary needed: [DESCRIBE SITUATION]. Relationship: [CONTEXT]. Create boundary statement that: is clear and specific, uses 'I' language, explains impact, offers alternative, and maintains respect.",
+          "use_case": "Work-life balance"
+        },
+        {
+          "title": "Knowledge Management System",
+          "prompt": "Information I collect: [TYPES]. Current challenge: [CHALLENGE]. Design system with: capture method, organization structure, retrieval strategy, review cadence, and tool recommendations.",
+          "use_case": "Information organization"
+        },
+        {
+          "title": "Burnout Prevention Plan",
+          "prompt": "Current workload: [DESCRIBE]. Stress signs: [SYMPTOMS]. Create prevention plan with: workload boundaries, energy renewal activities, support system, warning signs monitoring, and intervention steps.",
+          "use_case": "Wellbeing"
+        },
+        {
+          "title": "Negotiation Preparer",
+          "prompt": "Negotiating: [WHAT]. With: [WHO]. My position: [POSITION]. Their likely position: [POSITION]. Prepare with: BATNA, opening offer, walk-away point, value creation opportunities, and tactics.",
+          "use_case": "Negotiations"
+        },
+        {
+          "title": "Presentation Structure Builder",
+          "prompt": "Presentation on: [TOPIC]. Audience: [AUDIENCE]. Time: [DURATION]. Goal: [GOAL]. Build structure: opening hook, key messages (max 3), supporting evidence, stories/examples, call-to-action, Q&A prep.",
+          "use_case": "Public speaking"
+        },
+        {
+          "title": "Time Audit Analyzer",
+          "prompt": "My time last week: [ROUGH BREAKDOWN]. Goals: [GOALS]. Analyze alignment between time spent and priorities. Identify: time wasters, misallocations, missing activities, efficiency opportunities, ideal reallocation.",
+          "use_case": "Time management"
+        },
+        {
+          "title": "Annual Review Framework",
+          "prompt": "Year in review. Provide: biggest accomplishments, challenges overcome, skills gained, relationships strengthened, opportunities missed, lessons learned, themes, and priorities for next year.",
+          "use_case": "Yearly reflection"
+        },
+        {
+          "title": "Meeting Notes Structurer",
+          "prompt": "Meeting: [TOPIC]. Attendees: [ATTENDEES]. Structure notes with: key decisions, action items (who, what, when), open questions, important discussion points, parking lot items, and next meeting agenda.",
+          "use_case": "Note-taking"
+        },
+        {
+          "title": "Procrastination Pattern Analyzer",
+          "prompt": "I procrastinate on: [TASKS]. When: [SITUATIONS]. Create analysis: 1) Identify procrastination type, 2) Root causes, 3) Triggers, 4) Costs of delay, 5) Customized anti-procrastination strategies.",
+          "use_case": "Overcoming delay"
+        },
+        {
+          "title": "Career Development Planner",
+          "prompt": "Current role: [ROLE]. Career goal: [GOAL]. Timeline: [TIMELINE]. Create development plan with: skill gaps, learning resources, experience needed, networking strategy, milestones, and quarterly check-ins.",
+          "use_case": "Career growth"
+        },
+        {
+          "title": "Communication Style Adapter",
+          "prompt": "My communication style: [STYLE]. Communicating with: [PERSON'S STYLE]. About: [TOPIC]. Adapt approach by: adjusting pace, detail level, formality, channel, and conflict style for effective communication.",
+          "use_case": "Interpersonal skills"
+        },
+        {
+          "title": "Context Switching Minimizer",
+          "prompt": "My work requires: [LIST DIFFERENT TYPES OF WORK]. Current approach: [APPROACH]. Design schedule that: batches similar work, creates transition rituals, protects focus time, and minimizes switching costs.",
+          "use_case": "Focus management"
+        },
+        {
+          "title": "Retrospective Facilitator",
+          "prompt": "Project/Sprint: [NAME]. Team: [SIZE]. Facilitate retrospective covering: What went well, What didn't, Why (root cause), Action items, Appreciation, and one surprising insight.",
+          "use_case": "Team improvement"
+        },
+        {
+          "title": "Email Management System",
+          "prompt": "Email volume: [VOLUME]. Current issues: [ISSUES]. Design system with: inbox zero strategy, folder structure, processing rules, response templates, unsubscribe plan, and checking schedule.",
+          "use_case": "Inbox control"
+        },
+        {
+          "title": "Stress Response Plan",
+          "prompt": "Common stressors: [STRESSORS]. Current coping: [METHODS]. Create response plan with: early warning signs, immediate calming techniques, problem-solving approach, support to request, and recovery activities.",
+          "use_case": "Stress management"
+        },
+        {
+          "title": "Remote Work Optimizer",
+          "prompt": "Remote work challenges: [CHALLENGES]. Setup: [CURRENT SETUP]. Optimize with: workspace design, schedule structure, communication norms, boundary setting, social connection, and productivity hacks.",
+          "use_case": "Remote productivity"
+        },
+        {
+          "title": "Learning Plan Creator",
+          "prompt": "Want to learn: [SKILL/TOPIC]. Purpose: [PURPOSE]. Time available: [TIME]. Current level: [LEVEL]. Create learning plan: resources, practice activities, milestones, application opportunities, assessment.",
+          "use_case": "Skill development"
+        },
+        {
+          "title": "Conflict Resolution Script",
+          "prompt": "Conflict about: [ISSUE]. Parties: [PARTIES]. My role: [ROLE]. Create resolution script using: active listening prompts, neutrality language, problem reframing, solution generation, and agreement documentation.",
+          "use_case": "Resolving disputes"
+        },
+        {
+          "title": "Personal Brand Definer",
+          "prompt": "My expertise: [EXPERTISE]. Values: [VALUES]. Audience: [AUDIENCE]. Define personal brand with: unique value proposition, key messages, content themes, visual identity, and consistency guidelines.",
+          "use_case": "Professional identity"
+        },
+        {
+          "title": "Workflow Automation Identifier",
+          "prompt": "My repetitive tasks: [LIST]. Tools available: [TOOLS]. Identify automation opportunities with: task breakdown, automation potential (high/medium/low), tool recommendations, setup effort, and time savings.",
+          "use_case": "Efficiency gains"
+        },
+        {
+          "title": "Strategic Planning Framework",
+          "prompt": "Planning for: [SCOPE]. Current state: [STATE]. Vision: [VISION]. Apply framework: SWOT analysis, strategic priorities, objectives (OKRs), initiatives, resource allocation, risks, and quarterly milestones.",
+          "use_case": "Strategic thinking"
+        },
+        {
+          "title": "Accountability System Designer",
+          "prompt": "Goal: [GOAL]. Past accountability issues: [ISSUES]. Design system with: commitment device, progress tracking, check-in schedule, consequences (positive/negative), support structure, and pivot protocol.",
+          "use_case": "Follow-through"
+        },
+        {
+          "title": "Interruption Management Protocol",
+          "prompt": "Common interruptions: [TYPES]. Impact: [IMPACT]. Create protocol: priority assessment system, deflection scripts, batching strategy, urgent criteria, and cultural change approach for team.",
+          "use_case": "Protecting time"
+        },
+        {
+          "title": "Document Summary Generator",
+          "prompt": "Document: [TYPE/PURPOSE]. Length: [LENGTH]. Create tiered summaries: 1-sentence executive summary, 1-paragraph overview, 5-bullet key points, and full summary with sections. Highlight actionable items.",
+          "use_case": "Information synthesis"
+        },
+        {
+          "title": "Failure Analysis Framework",
+          "prompt": "What failed: [SITUATION]. Impact: [IMPACT]. Analyze with: timeline reconstruction, decision points, assumptions that broke, alternative actions, lessons learned, changes to implement, and moving forward plan.",
+          "use_case": "Learning from mistakes"
+        },
+        {
+          "title": "Networking Strategy Builder",
+          "prompt": "Networking goal: [GOAL]. Current network: [DESCRIBE]. Build strategy with: target connections, value you offer, outreach approach, conversation topics, follow-up system, and relationship maintenance.",
+          "use_case": "Professional relationships"
+        },
+        {
+          "title": "Decision Log Creator",
+          "prompt": "Decision: [DECISION]. Context: [CONTEXT]. Document: reasoning, alternatives considered, data used, stakeholders involved, expected outcomes, review date, and lessons learned (update later).",
+          "use_case": "Decision tracking"
+        },
+        {
+          "title": "Change Management Guide",
+          "prompt": "Change implementing: [CHANGE]. Affected people: [PEOPLE]. Create guide: change rationale, stakeholder concerns, communication plan, training needs, resistance management, and success indicators.",
+          "use_case": "Managing transitions"
+        },
+        {
+          "title": "Personal Operating Manual",
+          "prompt": "Create my personal manual covering: how I work best, communication preferences, feedback style, stress signs, what energizes/drains me, pet peeves, how to support me, and how I support others.",
+          "use_case": "Team collaboration"
+        },
+        {
+          "title": "Critique Receiver's Guide",
+          "prompt": "Receiving feedback on: [WORK]. From: [PERSON]. Prepare to: listen without defending, ask clarifying questions, separate emotion from content, identify actionable items, express gratitude, and decide what to apply.",
+          "use_case": "Receiving feedback"
+        },
+        {
+          "title": "Side Project Launcher",
+          "prompt": "Side project idea: [IDEA]. Time available: [HOURS/WEEK]. Resources: [RESOURCES]. Create launch plan: MVP definition, weekly milestones, skill gaps to fill, first 10 users strategy, and sustainability plan.",
+          "use_case": "Starting projects"
+        },
+        {
+          "title": "Mental Model Applier",
+          "prompt": "Situation: [SITUATION]. Apply useful mental models: First Principles, Inversion, Second-Order Thinking, Opportunity Cost, and Margin of Safety. Provide insights from each model's perspective.",
+          "use_case": "Better thinking"
+        }
+      ]
+    }
+  ],
+  "bonus_section": {
+    "title": "🎁 BONUS: Quick-Win Prompts",
+    "description": "10 versatile prompts for instant results",
+    "prompts": [
+      {
+        "title": "The Clarity Finder",
+        "prompt": "I'm confused about: [SITUATION]. Help me gain clarity by: 1) Identifying what I actually know vs assume, 2) Clarifying questions to ask, 3) Defining what 'good' looks like, 4) Removing what doesn't matter, 5) Next single step.",
+        "use_case": "When stuck or confused"
+      },
+      {
+        "title": "The Analogy Generator",
+        "prompt": "Concept to explain: [CONCEPT]. Audience: [AUDIENCE]. Create 3 analogies that: map key features, use familiar references, maintain accuracy, reveal new insights, and stick in memory.",
+        "use_case": "Explaining complex ideas"
+      },
+      {
+        "title": "The Alternative Seeker",
+        "prompt": "Current approach: [APPROACH]. Constraints: [CONSTRAINTS]. Generate 5 wildly different alternative approaches that: solve the same problem, challenge assumptions, vary in resource needs, and range from conservative to radical.",
+        "use_case": "Breaking mental ruts"
+      },
+      {
+        "title": "The Bias Checker",
+        "prompt": "My belief: [BELIEF]. My reasoning: [REASONING]. Check for biases: confirmation bias, recency bias, availability bias, sunk cost fallacy. Provide counter-evidence and steel-man the opposing view.",
+        "use_case": "Better decision-making"
+      },
+      {
+        "title": "The Template Creator",
+        "prompt": "Recurring task: [TASK]. Create reusable template with: step-by-step checklist, decision points with criteria, common variations, quality checks, time estimates, and customization instructions.",
+        "use_case": "Systematizing work"
+      },
+      {
+        "title": "The Momentum Builder",
+        "prompt": "Feeling stuck on: [PROJECT]. Create momentum plan: 1) Smallest possible first step (5min), 2) Quick win identification, 3) Progress visibility system, 4) Accountability trigger, 5) Celebration ritual.",
+        "use_case": "Getting unstuck"
+      },
+      {
+        "title": "The Question Generator",
+        "prompt": "Topic: [TOPIC]. Generate 20 thought-provoking questions across: clarifying questions, exploratory questions, challenging questions, connection questions, and application questions.",
+        "use_case": "Deeper exploration"
+      },
+      {
+        "title": "The Reframe Machine",
+        "prompt": "Problem: [PROBLEM]. Reframe from 5 perspectives: as an opportunity, as feedback, as a learning experience, from future-self view, from outsider's view. For each, suggest new action.",
+        "use_case": "Shifting perspective"
+      },
+      {
+        "title": "The Success Pattern Identifier",
+        "prompt": "My past success: [DESCRIBE SUCCESS]. Analyze: 1) Key factors that contributed, 2) My unique strengths leveraged, 3) Favorable conditions, 4) Repeatable patterns, 5) How to apply to [CURRENT SITUATION].",
+        "use_case": "Replicating wins"
+      },
+      {
+        "title": "The Integration Prompt",
+        "prompt": "Learned: [NEW LEARNING]. Current knowledge: [EXISTING KNOWLEDGE]. Integrate by: connecting to what I know, identifying contradictions, generating examples, creating practice opportunities, teaching someone.",
+        "use_case": "Deep learning"
+      }
+    ]
+  },
+  "usage_guide": {
+    "how_to_use": "Replace text in [BRACKETS] with your specific information. The more context you provide, the better the results.",
+    "customization_tips": [
+      "Add specific details to make outputs more relevant",
+      "Combine multiple prompts for complex tasks",
+      "Adjust formality and tone based on your needs",
+      "Save your customized versions for repeated use",
+      "Experiment with different variations"
+    ],
+    "best_practices": [
+      "Start with clear, specific inputs",
+      "Review and refine AI outputs",
+      "Use these as starting points, not final products",
+      "Iterate to improve results",
+      "Share successful variations with others"
+    ]
+  }
+}

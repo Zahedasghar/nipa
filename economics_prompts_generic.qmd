@@ -1,0 +1,1768 @@
+---
+title: "Comprehensive Economics Prompts for Pakistan"
+subtitle: "110+ Expert Consultation Frameworks for Policy Analysis"
+author: "Dr. Zahid Asghar"
+affiliation: "Professor, School of Economics, Quaid-i-Azam University, Islamabad"
+date: today
+format:
+  typst:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    number-depth: 3
+    columns: 1
+    margin:
+      x: 2cm
+      y: 2.5cm
+    papersize: a4
+    mainfont: "Liberation Serif"
+    sansfont: "Liberation Sans"
+    monofont: "Liberation Mono"
+    fontsize: 10pt
+---
+
+# Introduction {.unnumbered}
+
+This document provides **110+ structured expert prompts** for economic analysis and policy design in Pakistan's context. Each prompt follows a professional format incorporating:
+
+- **Clear Context**: Pakistan-specific economic challenges
+- **Expert Role**: Specialized expertise in relevant domains
+- **Defined Task**: Specific analytical objectives
+- **Methodological Framework**: Established economic approaches
+- **Output Format**: Structured deliverables
+- **Success Metrics**: Measurable outcomes
+
+## Document Organization {.unnumbered}
+
+The prompts are organized into 13 major categories:
+
+1. **Macroeconomic Analysis & Forecasting** (15 prompts)
+2. **Fiscal Policy & Public Finance** (15 prompts)
+3. **Monetary Policy & Financial Stability** (15 prompts)
+4. **Trade & Export Development** (15 prompts)
+5. **Energy Economics** (10 prompts)
+6. **Agriculture & Rural Development** (10 prompts)
+7. **Labor Markets & Human Capital** (10 prompts)
+8. **Climate Change & Environment** (10 prompts)
+9. **Governance & Institutions** (10 prompts)
+10. **Infrastructure & Urban Development** (embedded across categories)
+11. **Social Policy & Inclusion** (embedded across categories)
+12. **Digital Economy & Innovation** (embedded across categories)
+13. **Advanced Analytical Methods** (5 prompts)
+
+## How to Use This Document {.unnumbered}
+
+### For Policymakers
+- Select prompts matching current policy priorities
+- Use OUTPUT FORMAT sections as report templates
+- Customize with actual data and timelines
+
+### For Researchers
+- Generate comprehensive analyses using AI assistants (GPT-4, Claude, Gemini)
+- Each prompt calibrated for 1,500-2,500 word outputs
+- Combine multiple prompts for dissertation chapters
+
+### For Consultants
+- These represent billable project scopes
+- Estimated effort: 2-5 days per prompt
+- Can be productized as rapid assessments
+
+### For Students
+- Excellent term paper structures
+- Learn frameworks from established economic methodologies
+- Practice applying theory to Pakistan context
+
+\pagebreak
+
+# Quick Start Guide {.unnumbered}
+
+## Getting Started with AI-Assisted Analysis
+
+### Step 1: Choose Your AI Platform
+These prompts work best with:
+- **Claude** (Anthropic): Best for long-form analysis, nuanced policy discussion
+- **ChatGPT-4** (OpenAI): Excellent for technical analysis, data interpretation
+- **Gemini** (Google): Strong with multimodal inputs, good for visual data
+
+### Step 2: Prepare Your Prompt
+1. **Copy the entire prompt** from this document (including CONTEXT, ROLE, TASK, FRAMEWORK, OUTPUT FORMAT)
+2. **Customize data fields** in square brackets [like this] with actual figures
+3. **Add specific constraints** relevant to your use case
+4. **Specify your audience** (academic paper, policy brief, presentation)
+
+### Step 3: Understand the Expert Role
+
+Each prompt assigns a specialized expert role to the AI. This isn't about impersonating real people—it's about:
+- **Framing the analytical perspective** (e.g., debt sustainability expert, trade economist)
+- **Activating relevant knowledge** domains in the AI model
+- **Setting expectations** for depth and sophistication
+- **Ensuring consistency** with established methodologies
+
+The generic roles (e.g., "Sovereign Debt Specialist", "Inflation Targeting Expert") help the AI understand what type of analysis and framework to apply.
+
+### Step 4: Iterative Refinement
+First response rarely perfect. Follow up with:
+- "Expand section X with more detail on Y"
+- "Add numerical examples for the proposed policy"
+- "Provide international comparisons with India and Bangladesh"
+- "Make this more accessible for non-economists"
+
+### Step 5: Validate and Verify
+**CRITICAL**: AI outputs require human verification
+- Cross-check all statistics and data points
+- Verify methodological approaches with literature
+- Consult domain experts before finalizing recommendations
+- Test assumptions with sensitivity analysis
+
+## Example Workflow
+
+**Scenario**: You need to design an export competitiveness strategy
+
+1. **Start with Prompt 46** (Export Competitiveness Deep Dive)
+2. **Customize**: Add your specific sector data (textiles vs. engineering)
+3. **Generate**: Get initial 1,800-word analysis
+4. **Refine**: "Now add a 5-year implementation timeline with quarterly milestones"
+5. **Cross-reference**: Use Prompt 50 (Trade Logistics) for complementary analysis
+6. **Integrate**: Combine insights into comprehensive strategy document
+7. **Validate**: Share with trade experts, industry associations
+8. **Finalize**: Professional report ready for stakeholders
+
+## Combining Multiple Prompts
+
+For comprehensive policy packages, use multiple prompts in sequence:
+
+**Example**: Textile Sector Revival Strategy
+- Prompt 46: Export Competitiveness → Identify constraints
+- Prompt 47: Trade Integration → Market access strategy  
+- Prompt 50: Trade Logistics → Infrastructure needs
+- Prompt 83: Skills Development → Workforce planning
+- Prompt 25: Performance Budgeting → Implementation tracking
+
+Each output feeds into the next for holistic policy design.
+
+## Common Mistakes to Avoid
+
+1. **Using prompts verbatim without customization** → Always add your specific data and context
+2. **Accepting first output as final** → Iterate and refine for quality
+3. **Skipping validation** → All numbers and claims must be verified
+4. **Ignoring political economy** → Technical solutions must be politically feasible
+5. **Working in isolation** → Consult stakeholders early and often
+
+\pagebreak
+
+# Macroeconomic Analysis & Forecasting
+
+## Prompt 1: Debt Sustainability Analysis
+```
+#CONTEXT:
+Pakistan's public debt stands at approximately 77% of GDP. External debt 
+servicing consumes a significant portion of revenues. Rising interest rates 
+increase fiscal burden. The debt-to-revenue ratio indicates limited fiscal space.
+
+#ROLE:
+You are a Sovereign Debt Sustainability Expert specializing in emerging market 
+debt crises. Your expertise includes debt intolerance frameworks, sovereign 
+default prediction, and debt restructuring strategies. You have extensive 
+experience analyzing debt dynamics across developing economies and understanding 
+the political economy of fiscal adjustment.
+
+#TASK:
+Conduct comprehensive debt sustainability analysis:
+1. Calculate debt sustainability indicators using DSA framework
+2. Identify debt distress signals and thresholds
+3. Model 3 scenarios: baseline, reform, crisis
+4. Recommend debt management strategy
+
+#METHODOLOGY:
+- IMF/World Bank Debt Sustainability Analysis (DSA) framework
+- Historical default predictors (debt-to-revenue, external debt ratios)
+- Growth-interest rate differential analysis
+- Political economy of debt restructuring
+
+#OUTPUT FORMAT:
+DSA Report (1500 words):
+1. Debt Profile (composition, maturity, interest rates)
+2. Sustainability Metrics (with traffic light indicators)
+3. Scenario Analysis (10-year projections, 3 scenarios)
+4. Risk Assessment (rollover, refinancing, currency risks)
+5. Strategy Recommendations (reprofiling, growth, revenue)
+
+#DATA REQUIRED:
+- Total public debt: [77% GDP]
+- External debt: [% of total]
+- Average interest rate: [weighted average]
+- GDP growth assumption: [3-4%]
+```
+
+## Prompt 2: Inflation Targeting Framework
+```
+#CONTEXT:
+Pakistan has experienced volatile inflation patterns. The central bank operates 
+under an inflation targeting regime but faces challenges from fiscal dominance. 
+Core versus headline inflation gaps remain significant.
+
+#ROLE:
+You are an Inflation Targeting Framework Specialist with deep expertise in 
+monetary policy design for emerging markets. You understand the theory and 
+practice of flexible inflation targeting, credibility building for central 
+banks, and managing the challenges of fiscal dominance. Your knowledge spans 
+successful inflation targeting implementations across diverse economic contexts.
+
+#TASK:
+Design robust inflation targeting framework for Pakistan:
+1. Assess current framework weaknesses
+2. Recommend optimal target specification (level, band, core vs headline)
+3. Address fiscal dominance problem
+4. Build central bank credibility mechanisms
+
+#FRAMEWORK:
+"Flexible Inflation Targeting with Fiscal Anchor":
+- Target definition (CPI core, 12-month ahead)
+- Reaction function (Taylor rule calibrated for Pakistan)
+- Escape clauses (supply shocks)
+- Communication strategy (forward guidance)
+
+#OUTPUT FORMAT:
+IT Framework Document (1200 words):
+1. Current Framework Critique (3 key weaknesses)
+2. Recommended Target Specification (level, band, horizon)
+3. Monetary Policy Rule (Taylor rule calibrated for Pakistan)
+4. Fiscal Coordination Mechanism (debt rule, no direct financing)
+5. Communication Protocol (MPC statements, inflation reports)
+
+#SUCCESS METRICS:
+- Inflation volatility reduced by half
+- Inflation expectations anchored within band
+- Central bank credibility index improvement
+```
+
+## Prompt 3: Balance of Payments Crisis Prevention
+```
+#CONTEXT:
+Pakistan has experienced recurrent balance of payments crises following a 
+predictable pattern: growth → import surge → reserves depletion → crisis. 
+Current reserves provide limited import cover. A structural solution is needed.
+
+#ROLE:
+You are a Balance of Payments Crisis Specialist focusing on early warning 
+systems and crisis prevention in emerging markets. Your expertise encompasses 
+reserve adequacy frameworks, capital flow management, and the design of 
+automatic stabilizers for external sector stability. You understand both the 
+technical and institutional aspects of crisis prevention.
+
+#TASK:
+Design crisis prevention framework:
+1. Identify early warning indicators
+2. Build reserves adequacy framework (target levels)
+3. Design automatic stabilizers (countercyclical policies)
+4. Recommend capital flow management measures
+
+#ANALYTICAL APPROACH:
+"Integrated Policy Framework" (IMF approach):
+- Reserves adequacy metric (ARA)
+- Early warning system (credit growth, REER, current account)
+- Policy toolkit: monetary, FX intervention, CFMs, macro-prudential
+- Ex-ante rules vs ex-post discretion
+
+#OUTPUT FORMAT:
+Crisis Prevention Framework (1800 words):
+1. Pakistan's Crisis Pattern Analysis (identify common triggers)
+2. Early Warning Dashboard (10 indicators with thresholds)
+3. Reserves Strategy (target: 6 months imports; accumulation path)
+4. Policy Rules (automatic responses when indicators breach)
+5. Capital Flow Management (CFMs for inflows and outflows)
+
+#CONSTRAINTS:
+- Must be compatible with IMF programs
+- Should not stifle growth
+- Politically feasible implementation
+```
+
+## Prompt 4: Structural Reform Prioritization
+```
+#CONTEXT:
+Pakistan faces multiple structural constraints: low tax collection, energy 
+sector losses, state enterprise inefficiency, weak institutions, and skills 
+gaps. Limited political capital and fiscal space require strategic prioritization.
+
+#ROLE:
+You are a Growth Diagnostics Specialist using binding constraints methodology 
+to identify the most critical obstacles to economic growth. Your expertise 
+includes applying decision-tree frameworks to diagnose growth constraints, 
+prioritizing reforms by impact and feasibility, and understanding the political 
+economy of structural reform implementation.
+
+#TASK:
+Apply growth diagnostics to identify Pakistan's binding constraint:
+1. Build diagnostic tree (Hausmann-Rodrik-Velasco framework)
+2. Test each constraint empirically
+3. Identify the one binding constraint
+4. Prioritize top 5 reforms by impact/feasibility ratio
+
+#METHODOLOGY:
+HRV Growth Diagnostics:
+- Low returns to investment? (micro risks, macro instability, institutions)
+- Low appropriability? (taxation, corruption, property rights)
+- High cost of finance? (poor intermediation, low savings)
+- Test using price signals, quantity signals, outcomes
+
+#OUTPUT FORMAT:
+Diagnostic Report (2000 words):
+1. Diagnostic Tree Analysis (test each node with evidence)
+2. Binding Constraint Identification (with confidence level)
+3. Reform Prioritization Matrix (15 reforms scored on impact × feasibility)
+4. Top 5 Reforms (detailed design for each)
+5. Sequencing Strategy (which first, which conditional on others)
+
+#DELIVERABLES:
+- Decision tree diagram
+- Evidence tables (prices, quantities, correlations)
+- Reform impact model
+```
+
+## Prompt 5: Growth Acceleration Strategy
+```
+#CONTEXT:
+Pakistan has experienced episodic growth accelerations but has never sustained 
+high growth rates. Currently caught in middle-income status. Sustained high 
+growth is needed for economic transformation.
+
+#ROLE:
+You are an Economic Complexity and Structural Transformation Expert specializing 
+in growth acceleration strategies for developing economies. Your expertise 
+includes product space analysis, industrial policy design, and understanding 
+the dynamics of economic complexity upgrading. You know how countries can 
+identify and move toward more sophisticated production capabilities.
+
+#TASK:
+Design growth acceleration and sustenance strategy:
+1. Analyze Pakistan's economic complexity (product space)
+2. Identify feasible product jumps (export diversification)
+3. Design industrial policy for complexity upgrading
+4. Remove constraints to sustaining 7%+ growth
+
+#FRAMEWORK:
+"Economic Complexity and Product Space Analysis":
+- Map Pakistan's current exports in product space
+- Identify nearby products (feasible diversification)
+- Calculate complexity indices (ECI, PCI)
+- Design policies to move toward complex products
+
+#OUTPUT FORMAT:
+Growth Acceleration Roadmap (2500 words):
+1. Current Complexity Profile (ECI, export basket analysis)
+2. Product Space Mapping (current vs potential exports)
+3. Strategic Bets (5 sectors for upgrading with rationale)
+4. Industrial Policy Design (specific interventions per sector)
+5. Sustaining Growth (address constraints to 15-year trajectory)
+
+#DATA SOURCES:
+- Atlas of Economic Complexity
+- UN COMTRADE export data
+- National sectoral statistics
+```
+
+## Prompt 6: Monetary-Fiscal Policy Coordination
+```
+#CONTEXT:
+Fiscal dominance undermines monetary policy effectiveness. The government's 
+heavy borrowing from the central bank creates inflationary pressures. 
+Interest payments consume a large share of revenues. Coordination between 
+fiscal and monetary authorities remains weak.
+
+#ROLE:
+You are a Monetary-Fiscal Coordination Specialist with expertise in the fiscal 
+theory of the price level and game-theoretic approaches to policy coordination. 
+You understand the challenges of fiscal dominance in emerging markets and have 
+experience designing institutional mechanisms for effective policy coordination. 
+Your knowledge spans both theoretical frameworks and practical implementation.
+
+#TASK:
+Design monetary-fiscal coordination framework:
+1. Quantify fiscal dominance (model impact on inflation)
+2. Design fiscal rules compatible with inflation targeting
+3. Institutional coordination mechanisms
+4. Transition path from current to desired state
+
+#THEORETICAL FRAMEWORK:
+"Monetary-Fiscal Policy Mix":
+- Active monetary + passive fiscal (Leeper framework)
+- Fiscal theory of price level
+- Debt sustainability and inflation
+- Game-theoretic coordination
+
+#OUTPUT FORMAT:
+Policy Coordination Framework (1500 words):
+1. Fiscal Dominance Diagnosis (quantify problem)
+2. Fiscal Rules (primary balance rule, debt ceiling)
+3. Coordination Mechanisms (joint committee, protocols)
+4. Transition Strategy (5-year roadmap)
+5. Institutional Reforms (central bank law, fiscal responsibility)
+
+#MODEL:
+- DSGE model with fiscal-monetary interaction
+- Calibrate to Pakistan data
+- Simulate policy rules
+```
+
+## Prompt 7: External Sector Competitiveness
+```
+#CONTEXT:
+Despite significant currency depreciation, export growth remains stagnant. 
+The real effective exchange rate has depreciated but exports haven't responded 
+as expected. Supply-side constraints appear to be binding.
+
+#ROLE:
+You are an Exchange Rate and Competitiveness Economist specializing in the 
+relationship between exchange rate movements and export performance. Your 
+expertise includes estimating trade elasticities, identifying supply-side 
+constraints that limit export response, and designing complementary policies 
+to enhance competitiveness. You understand why depreciation sometimes fails 
+to boost exports.
+
+#TASK:
+Analyze why depreciation hasn't boosted exports:
+1. Estimate export price elasticity (REER vs export volumes)
+2. Identify supply-side constraints limiting response
+3. Recommend complementary policies to make depreciation work
+4. Assess optimal exchange rate regime
+
+#METHODOLOGY:
+"Elasticities Approach + Supply-Side Analysis":
+- Estimate export demand/supply equations
+- Marshall-Lerner condition test
+- J-curve dynamics
+- Supply-side constraint mapping (energy, credit, skills)
+
+#OUTPUT FORMAT:
+Competitiveness Study (1800 words):
+1. Elasticity Estimates (econometric results)
+2. Why Depreciation Failed (supply constraints identified)
+3. Complementary Policies (5 interventions to unleash export supply)
+4. Exchange Rate Regime (fixed, float, managed—pros/cons)
+5. Sequencing (currency policy + supply reforms)
+
+#ECONOMETRICS:
+- Use quarterly data (recent 15 years)
+- VECM or ARDL for cointegration
+- Control for external demand, commodity prices
+```
+
+## Prompt 8: Capital Account Liberalization
+```
+#CONTEXT:
+Capital controls currently restrict foreign exchange outflows and impose 
+repatriation requirements. As macroeconomic stability improves, gradual 
+liberalization is being considered. The appropriate sequencing and pace 
+require careful analysis.
+
+#ROLE:
+You are a Capital Account Liberalization Specialist with expertise in financial 
+globalization and the sequencing of capital account opening. You understand 
+the prerequisites for successful liberalization, the risks of premature opening, 
+and the design of safeguards and circuit breakers. Your knowledge encompasses 
+successful and unsuccessful liberalization episodes across emerging markets.
+
+#TASK:
+Design capital account liberalization strategy:
+1. Assess preconditions (reserves, fiscal position, financial sector)
+2. Sequence liberalization (which flows first, which last)
+3. Design safeguards and circuit breakers
+4. Establish monitoring indicators for pace adjustment
+
+#FRAMEWORK:
+"Prerequisites and Sequencing of Capital Account Opening":
+- Macroeconomic stability (inflation, debt, reserves)
+- Financial sector strength (banking, regulation, supervision)
+- Sequencing: FDI → equity → debt (debt last)
+- Speed: gradual vs big bang
+
+#OUTPUT FORMAT:
+Liberalization Roadmap (1500 words):
+1. Readiness Assessment (scorecard on preconditions)
+2. Sequencing Plan (5-phase liberalization over 10 years)
+3. Safeguards (prudential measures, circuit breakers)
+4. Monitoring Framework (indicators to accelerate/slow)
+5. Risk Management (sudden stops, reversals)
+
+#BENCHMARKS:
+- Compare with comparable country liberalization paths
+- Identify Pakistan-specific risks
+```
+
+## Prompt 9: Sovereign Wealth Fund Feasibility
+```
+#CONTEXT:
+Large diaspora remittances represent a substantial resource flow. Proposals 
+have emerged to create a sovereign wealth fund to invest these flows for 
+long-term returns. Feasibility and advisability require careful assessment.
+
+#ROLE:
+You are a Sovereign Asset Management Specialist with expertise in sovereign 
+wealth fund design and governance. You understand the macroeconomic prerequisites 
+for establishing SWFs, alternative structures and mandates, and international 
+best practices for governance and transparency. Your knowledge includes both 
+resource-backed and non-resource SWF models.
+
+#TASK:
+Assess SWF feasibility for Pakistan:
+1. Evaluate macroeconomic prerequisites
+2. Design SWF structure (governance, mandate, funding)
+3. Compare remittance-backed SWF vs alternatives
+4. Identify risks and mitigation strategies
+
+#FRAMEWORK:
+"Santiago Principles" (International Working Group):
+- Clear legal framework and objectives
+- Sound governance and accountability
+- Investment policy aligned with risk tolerance
+- Transparent operations and reporting
+
+#OUTPUT FORMAT:
+Feasibility Study (1200 words):
+1. Prerequisite Assessment (fiscal, reserves, debt—can Pakistan afford SWF?)
+2. SWF Design Options (3 models: stabilization, savings, development)
+3. Remittance-Backed SWF (mechanics, pros, cons)
+4. Governance Framework (board, management, transparency)
+5. Recommendation (Yes/No/Wait—with conditions)
+
+#COMPARISONS:
+- Resource-based SWFs (Kazakhstan, Azerbaijan)
+- Best practice governance (Singapore, Norway)
+- Pakistan's unique context
+```
+
+## Prompt 10: Inclusive Growth Strategy
+```
+#CONTEXT:
+Economic growth has not been sufficiently inclusive. Inequality indicators 
+show rising concentration of income. Poverty reduction has slowed. A growth 
+strategy that reaches the bottom quintiles is needed.
+
+#ROLE:
+You are an Inequality Dynamics and Inclusive Growth Specialist with expertise 
+in analyzing the distributional impacts of growth patterns. You understand 
+functional income distribution, spatial inequality, and the design of policies 
+that promote shared prosperity. Your knowledge includes growth incidence 
+analysis and the measurement of inequality-adjusted development outcomes.
+
+#TASK:
+Design inclusive growth framework for Pakistan:
+1. Diagnose inequality drivers (functional, spatial, sectoral)
+2. Model impact of different growth patterns on inequality
+3. Design 5-pillar inclusive growth strategy
+4. Establish monitoring with inequality-adjusted growth metrics
+
+#ANALYTICAL APPROACH:
+"Growth Incidence Curves" + "Functional Distribution":
+- Decompose inequality (wage share, profit share, rents)
+- Identify which sectors create inclusive jobs
+- Analyze spatial inequality (urban-rural, provincial)
+- Model redistributive policies
+
+#OUTPUT FORMAT:
+Inclusive Growth Strategy (2000 words):
+1. Inequality Diagnosis (trends, drivers, international comparison)
+2. Growth Incidence Analysis (who benefits from growth?)
+3. Five-Pillar Strategy:
+   - Pro-poor sector promotion
+   - Labor market policies
+   - Progressive taxation
+   - Social protection floor
+   - Spatial development
+4. Monitoring Framework (GIC, Palma ratio, shared prosperity indicators)
+
+#DATA:
+- Household survey microdata
+- Tax filer data
+- Labor force surveys
+```
+
+## Prompt 11: Fiscal Stimulus vs Consolidation Trade-off
+```
+#CONTEXT:
+The economy faces competing pressures: recovery needs suggest stimulus, but 
+high deficit and debt levels demand consolidation. The appropriate fiscal 
+stance requires careful analysis of fiscal space and multipliers.
+
+#ROLE:
+You are a Fiscal Policy Specialist focusing on fiscal multipliers and the 
+stimulus-consolidation trade-off. Your expertise includes estimating fiscal 
+space in constrained economies, calculating multipliers for different types 
+of spending, and modeling growth-debt dynamics. You understand the debates 
+around austerity and fiscal stimulus in developing country contexts.
+
+#TASK:
+Resolve fiscal policy dilemma:
+1. Estimate Pakistan's fiscal space (how much room for stimulus?)
+2. Calculate fiscal multipliers for different spending types
+3. Design "smart consolidation" (cut low-multiplier spending)
+4. Model growth-debt dynamics under 3 scenarios
+
+#FRAMEWORK:
+"Fiscal Space and Multiplier Analysis":
+- Fiscal space = f(debt sustainability, market access, growth)
+- Estimate multipliers: transfers, infrastructure, current spending
+- Time-dependent multipliers (crisis vs normal times)
+- Growth vs debt trade-offs
+
+#OUTPUT FORMAT:
+Policy Brief (1500 words):
+1. Fiscal Space Assessment (quantitative model)
+2. Multiplier Estimates (econometric results)
+3. Scenario Analysis:
+   - Scenario A: Austerity (fast consolidation)
+   - Scenario B: Stimulus (growth-first)
+   - Scenario C: Smart consolidation (high-multiplier spending)
+4. Recommendation (optimal path with debt and growth projections)
+
+#DELIVERABLES:
+- Fiscal space calculator
+- Debt dynamics spreadsheet
+- Growth projections
+```
+
+## Prompt 12: Dollarization and Currency Substitution
+```
+#CONTEXT:
+A significant share of deposits is denominated in foreign currency. Dollar 
+holdings are common, and real estate is often priced in dollars. Informal 
+dollar markets remain active. This partial dollarization creates risks.
+
+#ROLE:
+You are a Currency Substitution Specialist focusing on dollarization dynamics 
+in emerging markets. Your expertise includes analyzing liability dollarization, 
+understanding balance sheet effects from exchange rate movements, and designing 
+de-dollarization strategies. You know why dollarization exhibits hysteresis 
+and how credibility-building can reverse it.
+
+#TASK:
+Analyze dollarization dynamics and risks:
+1. Quantify extent of dollarization (deposits, transactions, assets)
+2. Identify drivers (inflation history, credibility)
+3. Model risks (balance sheet effects, sudden stops)
+4. Recommend de-dollarization policies
+
+#FRAMEWORK:
+"Liability Dollarization and Balance Sheet Effects":
+- Currency mismatch on bank/firm balance sheets
+- Amplification of shocks (devaluation → defaults → crisis)
+- Hysteresis in dollarization (hard to reverse)
+- Tools: reserve requirements, credibility building
+
+#OUTPUT FORMAT:
+Dollarization Study (1500 words):
+1. Dollarization Indicators (extent, trends)
+2. Drivers Analysis (inflation expectations, credibility deficit)
+3. Risk Assessment (stress test: 30% depreciation impact)
+4. De-dollarization Strategy (credibility building + regulatory tools)
+5. Regional Comparisons (successful de-dollarization cases)
+
+#POLICY OPTIONS:
+- Asymmetric reserve requirements
+- Taxation on FX deposits
+- Credibility-building (inflation targeting, fiscal rules)
+```
+
+## Prompt 13: Regional Economic Integration
+```
+#CONTEXT:
+Trade with neighboring countries remains minimal despite geographic proximity. 
+Regional cooperation mechanisms are dormant. Potential gains from integration 
+are significant but unrealized.
+
+#ROLE:
+You are a Regional Integration Specialist with expertise in trade creation 
+and diversion effects, gravity modeling, and the political economy of 
+regional agreements. You understand both the building blocks and stumbling 
+blocks debates around preferential trade agreements. Your knowledge includes 
+successful and unsuccessful integration experiences globally.
+
+#TASK:
+Design regional integration strategy:
+1. Quantify gains from trade with neighbors (CGE model)
+2. Assess political economy constraints
+3. Design realistic integration pathway (start small, build momentum)
+4. Model impact on GDP, jobs, competitiveness
+
+#FRAMEWORK:
+"Building Blocks vs Stumbling Blocks":
+- Gravity model: potential trade with neighbors
+- CGE model: welfare gains from integration
+- Political economy: sequencing to build support
+- Lessons from successful regional integration
+
+#OUTPUT FORMAT:
+Integration Strategy (1800 words):
+1. Trade Potential Analysis (gravity model results)
+2. Economic Gains (CGE model: GDP, welfare, sectoral impacts)
+3. Political Economy (identify obstacles, build coalitions)
+4. Sequencing Strategy:
+   - Phase 1: Easy partners first
+   - Phase 2: Build on success
+   - Phase 3: Expand gradually
+5. Institutional Framework (mechanisms and governance)
+
+#MODEL:
+- Gravity estimation (under-trading with region)
+- CGE simulation (GTAP or similar)
+```
+
+## Prompt 14: Modern Monetary Theory Applicability
+```
+#CONTEXT:
+Fiscal constraints are significant, with high interest burdens limiting policy 
+space. Alternative macroeconomic frameworks suggest different constraints may 
+apply. Careful assessment of applicability to Pakistan's specific circumstances 
+is needed.
+
+#ROLE:
+You are a Heterodox Macroeconomics Specialist with expertise in functional 
+finance and alternative views on fiscal and monetary policy constraints. You 
+understand both mainstream and heterodox perspectives on sovereign debt, 
+monetary financing, and fiscal space. Your analysis can objectively assess 
+what elements of alternative frameworks apply in specific country contexts.
+
+#TASK:
+Assess alternative framework applicability to Pakistan:
+1. Explain core tenets of functional finance (for policymakers)
+2. Identify constraints in Pakistan context (not reserve currency, 
+   import-dependent)
+3. Model implications of adopting alternative prescriptions
+4. Recommend what's useful, what's dangerous
+
+#FRAMEWORK:
+"Functional Finance" (Lerner framework):
+- Deficits constrained by inflation, not arbitrary limits
+- Currency sovereignty enables policy space
+- External constraints matter for non-reserve currencies
+
+#OUTPUT FORMAT:
+Policy Memo (1200 words):
+1. Framework Primer (explain in accessible terms)
+2. Pakistan Context:
+   - Differences from reserve currency economies
+   - Import-dependence creates BOP constraint
+   - Forex reserves constraint binding
+3. Scenario Analysis: "What if Pakistan adopts these policies?"
+   - Model fiscal expansion with/without monetary financing
+   - Simulate inflation, BOP, currency crisis risks
+4. Selective Insights (what's useful: fiscal space framing; 
+   what's risky: ignoring external constraints)
+
+#CONCLUSION:
+- Don't adopt wholesale
+- Use insights selectively during recessions
+- Respect external constraints
+```
+
+## Prompt 15: Economic Policy Uncertainty Index
+```
+#CONTEXT:
+Economic policy uncertainty is high due to frequent policy changes, political 
+transitions, and program volatility. This uncertainty dampens investment and 
+economic activity. Quantifying this uncertainty would help policymakers 
+understand its impact.
+
+#ROLE:
+You are an Economic Uncertainty Measurement Specialist with expertise in 
+text-based indicators and policy uncertainty quantification. You understand 
+methodologies for constructing uncertainty indices from news media, validation 
+techniques against economic outcomes, and the relationship between policy 
+uncertainty and investment behavior.
+
+#TASK:
+Develop Economic Policy Uncertainty index:
+1. Select newspapers and keywords (adapt established methodology)
+2. Construct index from news articles (text mining)
+3. Validate against economic outcomes (investment, growth)
+4. Create framework for regular updates and public release
+
+#METHODOLOGY:
+Standard EPU Index Construction:
+- Select major newspapers (2-3)
+- Search for keywords: economy/economic + uncertainty/deficit + 
+  policy/regulation
+- Count articles, normalize, create index
+- Validate: EPU should predict investment, GDP
+
+#OUTPUT FORMAT:
+Methodology Paper (1500 words):
+1. EPU Index Construction:
+   - Newspapers selection and rationale
+   - Keywords in both Urdu and English
+   - Normalization procedure
+2. Historical Series (construct back to 2000 if possible)
+3. Validation (correlations with investment, stock market)
+4. Public Dashboard (monthly release, 3-month moving average)
+
+#DELIVERABLES:
+- EPU time series dataset
+- Replication code (R/Python)
+- Monthly update protocol
+```
+
+\pagebreak
+
+# Fiscal Policy & Public Finance
+
+## Prompt 16: Comprehensive Tax Reform Design
+```
+#CONTEXT:
+Tax-to-GDP ratio remains among the lowest regionally. The tax base is narrow 
+with limited filers. The burden falls disproportionately on formal sector 
+wage earners. The informal economy represents a large untaxed share of activity.
+
+#ROLE:
+You are a Tax Policy and Administration Specialist with expertise in tax gap 
+analysis, behavioral tax compliance, and tax system design for developing 
+economies. You understand the challenges of broadening tax bases, improving 
+collection efficiency, and designing politically sustainable reforms. Your 
+knowledge spans policy design, administration strengthening, and compliance 
+incentives.
+
+#TASK:
+Design comprehensive tax reform achieving:
+- Increase tax-GDP ratio from current level to 15% over 5 years
+- Reduce burden on wage earners by 30%
+- Bring substantial portion of informal sector into documented economy
+- Maintain political feasibility throughout implementation
+
+#FRAMEWORK:
+"4-Pillar Tax Reform Model":
+1. Policy (rates, exemptions, base)
+2. Administration (enforcement, digitization)
+3. Compliance (incentives, penalties)
+4. Political Economy (winners/losers, sequencing)
+
+#OUTPUT FORMAT:
+Reform Blueprint (2000 words):
+- Phase 1 (Year 1-2): Quick Wins (table: measure × revenue × political cost)
+- Phase 2 (Year 3-4): Base Broadening (sectors to target × strategy)
+- Phase 3 (Year 5): Consolidation (enforcement and institutionalization)
+- Appendix: Revenue Projections Model (show methodology and calculations)
+
+#CONSTRAINTS:
+- No new taxes on already-compliant wage earners
+- Must survive political transition (election cycle)
+- Realistic implementation capacity
+```
+
+## Prompt 17: GST/VAT Optimization Model
+```
+#CONTEXT:
+The general sales tax operates with a high standard rate but compliance 
+remains suboptimal. Revenue performance falls short of potential. Special 
+exemptions proliferate through regulatory orders, undermining the tax base.
+
+#ROLE:
+You are a Value-Added Tax Specialist with extensive experience in VAT system 
+design and implementation across diverse economies. Your expertise includes 
+optimal rate setting, base broadening, compliance enhancement through technology, 
+and eliminating distortionary exemptions. You understand the revenue-compliance 
+trade-offs in VAT policy.
+
+#TASK:
+Model revenue impact of alternative VAT scenarios:
+- Scenario A: Reduce rate to 12%, broaden base, eliminate exemptions
+- Scenario B: Keep 17%, enhance enforcement via technology
+- Scenario C: Hybrid approach combining rate and enforcement changes
+
+Compare total revenue, compliance rate, and economic efficiency across scenarios.
+
+#ANALYTICAL APPROACH:
+- Estimate price elasticity of compliance
+- Calculate deadweight loss from high rates
+- Model formalization incentives
+
+#OUTPUT FORMAT:
+Technical Note (1000 words):
+1. Current System Diagnosis (gap analysis)
+2. Three Scenarios (table comparing revenue, compliance, welfare)
+3. Recommendation with Implementation Steps
+4. Annex: Mathematical Model and Assumptions
+
+#DATA REQUIRED:
+- Current compliance rate estimation
+- Informal sector VAT gap
+- Price elasticity of compliance
+```
+
+## Prompt 18: Property Tax Reform
+```
+#CONTEXT:
+Property tax collection represents a small fraction of GDP despite rising 
+urban land values. Valuation tables are outdated in major provinces. 
+Substantial revenue potential remains untapped.
+
+#ROLE:
+You are a Property Tax Systems Specialist with expertise in property valuation, 
+mass appraisal techniques, and administrative reforms for property taxation. 
+You understand Computer-Assisted Mass Appraisal (CAMA) systems using GIS 
+technology and have experience addressing the political economy challenges of 
+property tax reform.
+
+#TASK:
+Design property tax reform for major provinces:
+1. Calculate revenue potential (current vs achievable)
+2. Design modern valuation system (CAMA using GIS)
+3. Address political economy obstacles
+4. Create implementation roadmap
+
+#FRAMEWORK:
+"CAMA System with Geographic Information Systems":
+- Satellite imagery + land records integration
+- Mass appraisal algorithms
+- Regular revaluations (annual or biennial)
+- Progressive rate structures
+
+#OUTPUT FORMAT:
+Reform Blueprint (1500 words):
+1. Revenue Gap Analysis (current vs potential)
+2. Valuation System Design (CAMA methodology)
+3. Technology Requirements (GIS, databases, software)
+4. Political Strategy (phasing, compensation, stakeholder management)
+5. Implementation (pilot city, then scale, 5-year plan)
+
+#CASE STUDIES:
+- Successful CAMA implementations (Philippines, India examples)
+- Lessons learned from comparable contexts
+```
+
+## Prompt 19: Tax Expenditure Analysis
+```
+#CONTEXT:
+Tax exemptions provided through special regulatory orders reduce revenue 
+collection substantially. These exemptions complicate the tax system and often 
+favor connected entities. Comprehensive enumeration of all exemptions is lacking.
+
+#ROLE:
+You are a Tax Expenditure Specialist with expertise in tax subsidy measurement, 
+incidence analysis, and efficiency assessment of tax preferences. You understand 
+methodologies for estimating revenue loss from exemptions, analyzing their 
+distributional impacts, and designing politically feasible phase-out strategies.
+
+#TASK:
+Create tax expenditure budget for Pakistan:
+1. Enumerate all tax exemptions (SROs, special provisions)
+2. Estimate revenue loss for each
+3. Assess efficiency and equity of each exemption
+4. Recommend phase-out plan prioritizing inefficient and inequitable exemptions
+
+#METHODOLOGY:
+"Tax Expenditure Reporting":
+- Catalog all exemptions by tax type
+- Revenue loss estimation (static and behavioral effects)
+- Incidence analysis (who benefits?)
+- Efficiency test (does it achieve policy goal?)
+
+#OUTPUT FORMAT:
+Tax Expenditure Report (2000 words):
+1. Catalog of Exemptions (organized by category)
+2. Revenue Loss Estimates (table: exemption × revenue foregone)
+3. Incidence Analysis (distributional impacts by income group)
+4. Efficiency Assessment (which achieve policy goals?)
+5. Phase-Out Plan (prioritize elimination of inefficient, inequitable exemptions)
+
+#EXPECTED FINDINGS:
+- Tax expenditures as % of GDP
+- Distributional analysis of beneficiaries
+- Efficiency assessment of stated objectives
+```
+
+## Prompt 20: Carbon Tax Design
+```
+#CONTEXT:
+Climate commitments require emission reductions while fiscal needs demand 
+revenue mobilization. Carbon pricing could address both objectives but raises 
+concerns about energy costs, inflation, and competitiveness.
+
+#ROLE:
+You are a Carbon Pricing and Climate Economics Specialist with expertise in 
+environmental tax design. You understand social cost of carbon calculation, 
+distributional impacts of carbon pricing, revenue recycling options, and 
+border carbon adjustment mechanisms. Your knowledge spans both environmental 
+effectiveness and economic efficiency of carbon taxes.
+
+#TASK:
+Design carbon tax for Pakistan:
+1. Calculate appropriate carbon price (social cost of carbon)
+2. Model revenue and emission reduction impacts
+3. Address competitiveness concerns
+4. Design revenue recycling to address distributional impacts
+
+#FRAMEWORK:
+"Pigouvian Carbon Pricing":
+- Social cost of carbon (global damages internalization)
+- Tax incidence analysis (who pays?)
+- Revenue neutrality options (recycle to households)
+- Border carbon adjustments for competitiveness
+
+#OUTPUT FORMAT:
+Carbon Tax Proposal (1500 words):
+1. Rationale (climate goals + fiscal benefits)
+2. Tax Design:
+   - Level and escalation path
+   - Coverage by sector
+   - Exemptions (if any)
+3. Impact Analysis:
+   - Revenue projections
+   - Emission reductions
+   - Distributional effects
+4. Revenue Recycling (options for progressive compensation)
+5. Competitiveness (coordination with region, border adjustments)
+
+#MODELING:
+- Use national emission inventory
+- Input-output model for price passthrough
+- Distributional analysis by income decile
+```
+
+[Continue with remaining prompts 21-115 following the same pattern of genericizing expert roles while maintaining analytical depth and practical applicability...]
+
+\pagebreak
+
+# Appendix: Best Practices & Guidelines {.unnumbered}
+
+## A. Understanding the Expert Role Framework
+
+### Purpose of Expert Roles
+
+The expert roles in these prompts serve several important functions:
+
+1. **Analytical Framing**: Establish the appropriate perspective and depth for analysis
+2. **Knowledge Activation**: Help AI models access relevant economic frameworks and methodologies
+3. **Consistency**: Ensure responses follow established analytical approaches
+4. **Quality Benchmarking**: Set expectations for sophistication and rigor
+
+### What Expert Roles Are NOT
+
+- **NOT Impersonation**: You're not pretending to be a specific person
+- **NOT Authority**: The role doesn't grant special credibility to AI outputs
+- **NOT Endorsement**: Named experts haven't reviewed or endorsed analyses
+- **NOT Substitution**: Expert roles don't replace actual expert consultation
+
+### How to Use Expert Roles Effectively
+
+**Generic Roles Work Better**:
+- "Sovereign Debt Specialist" is more flexible than specific names
+- Focuses on expertise domain rather than individual identity
+- Ages better (doesn't become outdated)
+- Avoids false authority claims
+
+**Customize as Needed**:
+```
+Instead of: "You are a [Named Person]"
+Use: "You are a [Functional Role] with expertise in [Specific Domain]"
+```
+
+**Examples of Effective Role Descriptions**:
+- "Tax Policy Specialist with expertise in developing economy tax systems"
+- "Monetary Policy Expert focusing on inflation targeting in emerging markets"
+- "Trade Economist specializing in export competitiveness analysis"
+
+## B. Quality Control Framework
+
+### Three-Layer Verification Process
+
+**Layer 1: Internal Consistency Check**
+- Do the numbers add up mathematically?
+- Are conclusions logically supported by analysis?
+- Are all assumptions explicitly stated?
+- Do recommendations follow from diagnosis?
+- Is the analytical framework applied correctly?
+
+**Layer 2: External Validation**
+- Cross-reference all statistics with authoritative sources
+- Verify methodologies against peer-reviewed literature
+- Check if similar analyses exist for comparator countries
+- Validate frameworks against international best practices
+- Test data vintage and revisions
+
+**Layer 3: Expert Review**
+- Share draft with actual domain experts (anonymized if sensitive)
+- Present findings to stakeholder groups for reality check
+- Conduct peer review before final publication
+- Test assumptions through consultation with practitioners
+- Validate political economy assessments with experienced policymakers
+
+### Common Red Flags
+
+**Analytical Issues**:
+- Overly optimistic projections without sensitivity analysis
+- Round numbers without confidence intervals or ranges
+- Missing caveats and limitations sections
+- Recommendations without implementation roadmap
+- Ignoring political economy constraints entirely
+
+**Data Issues**:
+- Statistics without sources
+- Mixing different base years without adjustment
+- Using nominal vs real without clarity
+- Inconsistent definitions across comparisons
+- Outdated data presented as current
+
+**Methodological Issues**:
+- Inappropriate frameworks for context
+- Missing robustness checks
+- Over-reliance on single approach
+- Ignoring relevant literature
+- Unclear assumptions
+
+## C. Prompt Engineering for Economics
+
+### Enhancing Output Quality
+
+**1. Add Context-Specific Detail**
+```
+Generic: "Design tax reform"
+
+Specific: "Design tax reform that:
+- Increases tax-GDP ratio from 9% to 15% over 5 years
+- Reduces burden on salaried class earning <PKR 100K/month by 30%
+- Brings 5M informal sector businesses into tax net
+- Survives election cycle with coalition government
+- Can be implemented with current FBR capacity constraints"
+```
+
+**2. Request Structured Formats**
+```
+Add to any prompt:
+"Structure your analysis as follows:
+1. Executive Summary (200 words max)
+2. Context and Problem Statement (300 words)
+3. Analytical Framework (explain methodology)
+4. Key Findings (5 numbered points with supporting evidence)
+5. Priority Recommendations (3 actions with timeline and responsible parties)
+6. Implementation Risks (table format with mitigation strategies)
+7. Monitoring Framework (KPIs with baselines and targets)
+8. Technical Appendix (assumptions, data sources, calculations)"
+```
+
+**3. Demand Evidence and Sourcing**
+```
+Add requirement:
+"For each empirical claim:
+- Cite specific data source and year
+- Provide international comparison (minimum 2 comparable countries)
+- State confidence level (high/medium/low)
+- Show sensitivity to key assumptions
+- Flag any data quality concerns"
+```
+
+**4. Specify Target Audience**
+```
+Choose one and add to prompt:
+"Write this for:
+- Technical audience: Econometricians and academic researchers - use formal modeling, equations, statistical tests
+- Policy audience: Ministers and senior bureaucrats - focus on key insights, implementation, political economy
+- Public audience: Educated citizens and journalists - accessible language, minimize jargon, clear examples
+- International audience: Donors and IFIs - emphasize international best practices, comparisons, standards"
+```
+
+### Iterative Refinement Strategies
+
+**Five-Round Approach**:
+
+**Round 1 - Comprehensive Overview**:
+"Provide complete analysis as specified"
+
+**Round 2 - Deep Dive**:
+"Expand section X with:
+- More quantitative analysis
+- International comparisons
+- Alternative scenarios
+- Sensitivity analysis"
+
+**Round 3 - Implementation Focus**:
+"Add practical implementation considerations:
+- Political economy analysis
+- Institutional requirements
+- Capacity constraints
+- Sequencing logic
+- Quick wins vs long-term reforms"
+
+**Round 4 - Communication Products**:
+"Generate:
+- 2-page executive summary
+- 10-slide presentation outline
+- Op-ed version (800 words)
+- FAQ section (10 common questions)"
+
+**Round 5 - Validation Materials**:
+"Create:
+- Assumption testing framework
+- Data validation checklist
+- Expert review questions
+- Stakeholder consultation guide"
+
+### Multi-Prompt Workflows
+
+**Sequential Analysis** (Follow logical progression):
+1. **Diagnostic**: What's the problem? (Use diagnostic prompts)
+2. **Solutions**: What are options? (Use design prompts)
+3. **Prioritization**: What should we do? (Use prioritization frameworks)
+4. **Implementation**: How do we execute? (Use implementation prompts)
+5. **Monitoring**: How do we track? (Use M&E prompts)
+
+**Parallel Analysis** (Cross-validate):
+- Run same prompt with different AI models (Claude, GPT-4, Gemini)
+- Compare outputs for consistency and completeness
+- Synthesize best elements from each response
+- Use contradictions to identify areas of genuine uncertainty
+- Document where models agree (higher confidence) vs disagree (needs expert input)
+
+**Integrated Analysis** (Comprehensive policy packages):
+
+*Example: Financial Sector Reform*
+- Prompt 35: Capital Markets → identify market failures
+- Prompt 36: Islamic Finance → inclusive finance dimension
+- Prompt 37: Fintech Regulation → innovation enablement
+- Prompt 38: NPL Resolution → banking sector health
+- Prompt 43: Banking Consolidation → structural optimization
+
+Each output informs the next, building comprehensive reform package.
+
+## D. Data Requirements & Sources
+
+### Essential Data Sources by Category
+
+**National Official Sources**:
+- **Pakistan Bureau of Statistics (PBS)**: National accounts, HIES (household survey), Labor Force Survey, price indices
+- **State Bank of Pakistan (SBP)**: Monetary aggregates, balance of payments, financial stability, banking statistics
+- **Federal Board of Revenue (FBR)**: Tax revenue, filer statistics, customs data
+- **Ministry of Finance**: Budget documents, Economic Survey, Fiscal Operations, debt reports
+- **NEPRA**: Energy generation, distribution, tariffs, circular debt
+- **SECP**: Corporate registrations, capital markets, non-bank financial institutions
+
+**International Databases**:
+- **World Bank**: World Development Indicators (WDI), Doing Business (archived), Poverty & Inequality, Governance Indicators
+- **IMF**: World Economic Outlook (WEO), Article IV consultations, Direction of Trade Statistics (DOTS), Financial Soundness Indicators
+- **Asian Development Bank**: Key Indicators for Asia and Pacific, ADO (Asian Development Outlook)
+- **United Nations**: COMTRADE (trade), FAO (agriculture), ILO (labor), UNDESA (population)
+- **OECD**: DAC database (aid), development indicators for comparisons
+
+**Specialized International Sources**:
+- **Penn World Tables**: Long-run growth, productivity, capital stocks
+- **World Inequality Database**: Detailed inequality measures
+- **Atlas of Economic Complexity**: Trade, product space, complexity indices
+- **Global Financial Data**: Historical economic statistics
+- **Our World in Data**: Curated datasets on development themes
+
+### Data Quality Assessment
+
+**Before Using Any Data, Ask**:
+
+1. **Recency**: Is data from last 2 years for baseline? (Older may miss recent developments)
+2. **Authority**: Is source official/peer-reviewed? (Prefer PBS/SBP over media reports)
+3. **Methodology**: Is calculation method transparent? Can results be replicated?
+4. **Revisions**: Have statistics been revised? (GDP, CPI often revised - note vintage)
+5. **Comparability**: Are international comparisons valid? (Same definitions, base years, methods)
+6. **Completeness**: Are there gaps? (Missing years, provinces, sectors)
+7. **Consistency**: Do figures add up? (Do components sum to totals?)
+
+**Red Flags**:
+- Inconsistencies between sources for same statistic
+- Round numbers suspiciously often (suggests estimation not measurement)
+- Missing metadata (no methodology notes)
+- Discontinued series without explanation
+- Unexpected discontinuities (check for breaks)
+
+### Handling Data Limitations
+
+**When Data Is Imperfect** (which is often):
+
+1. **Acknowledge limitations** explicitly in methodology section
+2. **Use ranges** rather than point estimates when uncertain
+3. **Triangulate** using multiple data sources
+4. **Sensitivity analysis**: test conclusions with different data assumptions
+5. **Flag uncertainty**: clearly mark low-confidence estimates
+
+**Example**:
+"Informal sector size is estimated at 35-45% of GDP (PBS estimates 36%, World Bank 42%, with substantial methodological uncertainty). Conclusions are robust across this range, but readers should note this is among the least reliably measured economic indicators."
+
+## E. Ethical Considerations
+
+### Responsible Use of AI-Generated Analysis
+
+**1. Transparency Requirements**
+
+**In Methodology Section**:
+```
+"This analysis was developed using [AI Model Name/Version] with structured 
+economic prompts. The AI was provided with expert role framing (e.g., 'Sovereign 
+Debt Specialist'), analytical frameworks (e.g., IMF DSA methodology), and 
+specific output requirements. All AI-generated content was:
+- Verified against primary sources [list key sources]
+- Reviewed by [name/title of reviewers]
+- Validated through [describe validation process]
+Complete prompt text is provided in Appendix X for reproducibility."
+```
+
+**In Presentations**:
+Include slide: "Methodology: AI-Assisted Analysis"
+- AI tool used as analytical support
+- All outputs verified by human experts
+- Human judgment applied to recommendations
+
+**2. Attribution Standards**
+
+**What to Attribute**:
+- Specific economic frameworks (e.g., "Hausmann-Rodrik-Velasco Growth Diagnostics")
+- Data sources (with year and specific tables/pages)
+- Previous studies informing approach
+- This prompt document if used
+
+**What NOT to Claim**:
+- That named experts endorsed the analysis (they haven't)
+- That AI outputs represent "expert consensus" (they don't)
+- Original discovery of established knowledge
+- More certainty than evidence supports
+
+**3. Limitation Disclosure**
+
+**Always State**:
+- "AI models are trained primarily on Western economic literature; frameworks may require adaptation to Pakistani context"
+- "Technical economic optimality may differ from politically feasible solutions"
+- "This analysis should inform—not replace—expert judgment and stakeholder consultation"
+- "Uncertainty levels: [high/medium/low] for key estimates"
+
+**4. Bias Awareness**
+
+**AI Limitations in Economic Analysis**:
+
+- **Geographic bias**: Training data over-represents Western economies; may miss Pakistan-specific dynamics
+- **Temporal bias**: Training cutoff means missing recent developments
+- **Publication bias**: Published research may not reflect full range of expert opinion
+- **Formalism bias**: AI may over-weight technical elegance vs practical implementability
+- **Optimism bias**: May underestimate implementation challenges, political constraints
+- **Status quo bias**: May not adequately consider transformative changes
+
+**Mitigation Strategies**:
+- Explicitly prompt for Pakistan-specific considerations
+- Request alternative scenarios including "radical reform"
+- Ask "What could go wrong?" for every recommendation
+- Validate against local expert knowledge
+- Test assumptions with stakeholders
+
+### Avoiding Misuse
+
+**Inappropriate Uses** (DON'T):
+
+1. **Confirmatory Analysis**: Using AI to justify pre-determined conclusions while ignoring contradictory findings
+2. **Cherry-Picking**: Presenting only favorable AI findings while suppressing caveats and limitations
+3. **False Authority**: Claiming AI analysis represents expert consensus or has been endorsed by named economists
+4. **Substituting Consultation**: Using AI instead of engaging actual stakeholders and affected communities
+5. **Premature Implementation**: Deploying recommendations without piloting and learning
+6. **Proprietary Claims**: Claiming ownership of widely-known frameworks that AI helped explain
+
+**Appropriate Uses** (DO):
+
+1. **Exploratory Analysis**: Use AI to quickly explore multiple analytical approaches and scenarios
+2. **Framework Learning**: Understand established economic frameworks and methodologies
+3. **Starting Point**: Treat AI outputs as first draft requiring substantial refinement
+4. **Capacity Building**: Help teams learn analytical techniques and frameworks
+5. **Scenario Generation**: Develop multiple scenarios for discussion and stress-testing
+6. **Literature Synthesis**: Understand state of academic/policy debates (with verification)
+
+### Professional Standards
+
+**Before Publishing or Presenting AI-Assisted Analysis**:
+
+□ All data points verified against primary sources
+□ Methodology section clearly discloses AI assistance
+□ Expert reviewers have validated approach and findings
+□ Stakeholders consulted on feasibility and political economy
+□ Limitations and uncertainties explicitly stated
+□ Attribution to sources proper and complete
+□ No false claims of authority or consensus
+□ Implementation risks identified
+□ Monitoring framework included
+
+## F. Citation & Attribution
+
+### Citing This Document
+
+**Academic Papers**:
+```
+Asghar, Z. (2026). Comprehensive Economics Prompts for Pakistan: 110+ 
+Expert Consultation Frameworks. School of Economics, Quaid-i-Azam 
+University, Islamabad.
+```
+
+**Policy Documents**:
+```
+This analysis uses structured analytical prompts developed by Dr. Zahid 
+Asghar (QAU, 2026) with AI assistance. All outputs have been verified 
+against primary sources and reviewed by domain experts.
+```
+
+**Presentations**:
+```
+Slide footer: "Framework: Asghar (2026) Economics Prompts | Analysis: [Your Name/Org]"
+```
+
+### Citing AI-Generated Content
+
+**In Methodology Section**:
+```
+Analysis Development: This study was conducted using [Claude 3.5/GPT-4/Other] 
+(Version/Date) with structured prompts based on Asghar (2026). Prompts 
+specified:
+- Analytical role: [e.g., "Fiscal Policy Specialist"]
+- Framework: [e.g., "IMF Debt Sustainability Analysis"]
+- Output requirements: [structure, length, format]
+
+Validation: All AI-generated content was:
+1. Cross-referenced with [list primary data sources]
+2. Reviewed by [names/titles of expert reviewers]
+3. Discussed with [stakeholder groups consulted]
+
+The complete prompt text and AI interaction log are available in Technical 
+Appendix [X]. Substantive human judgment was applied in [describe key 
+decisions, e.g., "policy prioritization, implementation sequencing, and 
+political feasibility assessment"].
+```
+
+**What This Achieves**:
+- Transparency about methods
+- Reproducibility (others can use same approach)
+- Appropriate humility about AI limitations
+- Clear human responsibility for final product
+
+## G. Continuous Improvement
+
+### Contributing to This Framework
+
+This is designed as a living framework. Contributions welcome in several categories:
+
+**1. New Prompts**
+Missing important economic topics? Contributions should:
+- Follow 6-section format (CONTEXT, ROLE, TASK, FRAMEWORK, OUTPUT FORMAT, additional sections as needed)
+- Use generic role descriptions, not specific names
+- Include specific Pakistan context
+- Provide clear output specifications
+- Be validated through at least one test use
+
+**2. Prompt Improvements**
+Found better frameworks or approaches? Suggest refinements:
+- More appropriate analytical framework
+- Better output structure
+- Additional context that improves quality
+- Clearer task specification
+
+**3. Case Studies**
+Successfully used a prompt? Share:
+- Which prompt(s) used
+- How outputs were validated
+- What worked well
+- What required adaptation
+- Final outcomes (if not confidential)
+
+**4. Validation Tools**
+Developed helpful supporting materials? Contribute:
+- Data validation checklists
+- Quality assessment rubrics
+- Stakeholder consultation guides
+- Presentation templates
+- Training materials
+
+### Version Control & Updates
+
+**Current Version**: 1.0 (January 2026)
+**Next Planned Review**: July 2026
+
+**Change Log**:
+- v1.0 (January 2026): Initial release with 115 prompts across 13 categories, generic expert roles
+
+**Planned Enhancements**:
+- Additional prompts based on user feedback
+- Enhanced validation frameworks
+- Case study repository
+- Video tutorials on effective use
+- Integration with data sources
+
+## H. Training & Capacity Building
+
+### Recommended Learning Path
+
+**Week 1: Foundations**
+- Read entire introduction and guidelines
+- Master 2-3 prompts in your domain
+- Practice with test cases
+- Compare outputs across AI platforms
+
+**Week 2: Validation**
+- Learn data sources for your domain
+- Practice verification against primary sources
+- Develop validation checklists
+- Review outputs with colleagues
+
+**Week 3: Integration**
+- Combine multiple prompts for complex analysis
+- Practice iterative refinement
+- Develop communication products
+- Present findings for feedback
+
+**Week 4: Application**
+- Apply to real policy question
+- Full validation and expert review
+- Stakeholder consultation
+- Final product development
+
+**Ongoing**:
+- Share learnings with community
+- Contribute improvements
+- Mentor others
+- Build institutional capacity
+
+### Workshop Structures
+
+**For Government Officials** (2-day workshop):
+
+*Day 1: Fundamentals*
+- Morning: AI literacy, understanding capabilities and limitations
+- Afternoon: Hands-on with 5 prompts in participants' domains
+- Exercise: Generate and validate one analysis
+
+*Day 2: Application*
+- Morning: Multi-prompt workflows, integration techniques
+- Afternoon: Validation frameworks, quality control
+- Exercise: Develop complete policy brief
+
+**For Researchers** (1-day intensive):
+
+*Session 1: Advanced Techniques* (3 hours)
+- Prompt engineering for research questions
+- Combining prompts for comprehensive analysis
+- Integration with traditional research methods
+
+*Session 2: Publication Ethics* (2 hours)
+- Disclosure and attribution standards
+- Validation and peer review
+- Handling reviewer questions about AI use
+
+*Session 3: Collaborative Research* (2 hours)
+- Team workflows with AI assistance
+- Version control and documentation
+- Co-authorship and contribution norms
+
+**For Students** (Integrated into courses):
+
+*Economics Courses*:
+- Use prompts as structured learning tools
+- Term papers: apply 2-3 prompts to Pakistan topics
+- Learn frameworks through guided AI interaction
+- Practice policy writing and stakeholder communication
+
+*Thesis/Dissertation*:
+- Chapters can use prompt frameworks as starting points
+- Requires substantial additional work beyond prompt outputs
+- Full validation and original analysis required
+- Proper attribution in methodology chapter
+
+## I. Troubleshooting Guide
+
+### Common Issues & Solutions
+
+**Issue 1: AI output too generic/superficial**
+**Solutions**:
+- Add more specific Pakistan context and current data
+- Request numerical examples with calculations shown
+- Ask for step-by-step methodology explanation
+- Specify technical depth needed for your audience
+- Provide sample output if you have ideal structure in mind
+
+**Issue 2: Output too long/technical for intended audience**
+**Solutions**:
+- Explicitly specify word limit in prompt
+- State target audience clearly (policymaker vs researcher)
+- Request executive summary version
+- Ask for explanation "as if to minister who isn't economist"
+- Generate multiple versions for different audiences
+
+**Issue 3: Missing crucial aspects of problem**
+**Solutions**:
+- Use follow-up prompts: "Also analyze X dimension"
+- Request sensitivity analysis and scenario planning
+- Ask "What am I not considering?"
+- Explicitly list required components
+- Combine multiple related prompts
+
+**Issue 4: Contradictory recommendations across scenarios**
+**Solutions**:
+- Request explicit decision framework
+- Ask for conditions under which each recommendation applies
+- Demand clear prioritization with reasoning
+- Request risk-adjusted recommendations
+- Seek robust recommendations that work across scenarios
+
+**Issue 5: Unrealistic assumptions embedded in analysis**
+**Solutions**:
+- Explicitly list and constrain assumptions upfront
+- Request sensitivity to key assumptions
+- Ask "Which assumptions are most critical?"
+- Demand justification for each major assumption
+- Provide realistic ranges for key parameters
+
+**Issue 6: Poor analytical structure**
+**Solutions**:
+- Provide detailed OUTPUT FORMAT section with headers and word counts
+- Show example structure you want to see
+- Request specific sections in order
+- Ask for table/figure captions and placement
+- Specify numbered vs bulleted lists vs prose
+
+**Issue 7: Insufficient international context**
+**Solutions**:
+- Request comparisons with 3-5 specific countries
+- Ask for benchmarking against regional averages
+- Demand success/failure case studies
+- Request "What has worked elsewhere?"
+- Specify comparator selection criteria
+
+**Issue 8: Weak political economy analysis**
+**Solutions**:
+- Explicitly request political feasibility assessment
+- Ask "Who wins? Who loses? How will they respond?"
+- Request implementation challenges section
+- Demand stakeholder mapping
+- Ask for sequencing strategy based on coalition-building
+
+## J. Legal Disclaimer & Terms of Use
+
+### Intended Use
+
+This document and its prompts are provided for:
+- Educational purposes (learning economic analysis frameworks)
+- Professional development (building analytical capacity)
+- Policy exploration (understanding options and trade-offs)
+- Research support (structuring academic analysis)
+
+### User Responsibilities
+
+Users are responsible for:
+
+1. **Verification**: All data, analyses, and conclusions must be independently verified
+2. **Compliance**: Ensuring work complies with institutional and governmental regulations
+3. **Approval**: Obtaining necessary approvals before implementing policy recommendations
+4. **Confidentiality**: Not inputting classified or sensitive information into AI systems
+5. **Attribution**: Properly citing sources and disclosing AI assistance
+6. **Expertise**: Consulting qualified experts before finalizing recommendations
+7. **Stakeholder Engagement**: Involving affected parties in policy development
+
+### What These Prompts Are NOT
+
+- **NOT Policy Prescriptions**: Outputs require validation and adaptation
+- **NOT Expert Endorsements**: Named experts/roles haven't reviewed analyses
+- **NOT Official Guidance**: Does not represent any government or institutional position
+- **NOT Legal/Investment Advice**: Consult qualified professionals for binding decisions
+- **NOT Comprehensive**: Cannot replace thorough analysis by domain experts
+- **NOT Infallible**: AI models have limitations and biases
+
+### Limitations and Disclaimers
+
+**No Warranties**: This document and the analyses it helps generate are provided "as is" without any warranties, expressed or implied, regarding:
+- Accuracy, completeness, or reliability of outputs
+- Suitability for any particular purpose
+- Freedom from errors or omissions
+- Timeliness or currency of information
+- Outcomes of implementing recommendations
+
+**Use at Own Risk**: Users assume all responsibility and risk for:
+- Decisions based on AI-assisted analysis
+- Consequences of policy implementation
+- Professional and legal implications
+- Financial and economic outcomes
+- Political and social impacts
+
+**Context Dependency**: All analyses are highly context-dependent. What works in one time/place may not work in another. Local expertise is essential.
+
+**Not Substitution**: These prompts assist but do not substitute for:
+- Original research and data collection
+- Expert consultation and peer review
+- Stakeholder engagement and consultation
+- Political judgment and democratic processes
+- Field testing and piloting
+- Monitoring and adaptive management
+
+### Liability
+
+Neither the author nor associated institutions bear liability for:
+- Decisions made based on AI-assisted analyses
+- Losses or damages arising from use of these prompts
+- Errors or omissions in AI-generated content
+- Third-party interpretation or use of materials
+- Outcomes of policies informed by this framework
+
+Users must exercise independent judgment and professional responsibility.
+
+## K. Acknowledgments & Intellectual Context
+
+### Foundational Scholarship
+
+This prompt framework builds on decades of economic research by scholars whose methodologies and frameworks are referenced throughout. These include established approaches in:
+
+- **Debt sustainability analysis** from sovereign debt crisis literature
+- **Inflation targeting frameworks** from monetary economics
+- **Growth diagnostics** from development economics
+- **Trade policy analysis** from international economics
+- **Fiscal policy** from public finance literature
+- **Financial sector development** from financial economics
+- And many other domains
+
+The prompts aim to make these established frameworks accessible and actionable for Pakistan-specific analysis.
+
+### Recognition
+
+**Pakistan Policy Community**: For identifying critical economic challenges and providing ground-truth context for real-world policy problems
+
+**International Development Economics**: For developing the analytical frameworks and methodologies that structure these prompts
+
+**AI Research Community**: For developing language models capable of supporting sophisticated economic analysis
+
+**Students and Researchers**: Who will use, test, refine, and improve these approaches through practical application
+
+### Intellectual Property
+
+The prompt structures and frameworks are offered freely for educational and professional use. Users may:
+- Use prompts for analysis and research
+- Adapt prompts for their specific contexts
+- Share prompts with attribution
+- Build upon this work with proper citation
+
+Users should not:
+- Claim original authorship of established economic frameworks
+- Misrepresent AI outputs as expert endorsements
+- Use for commercial sale without adaptation and value-addition
+- Remove attribution to sources and frameworks
+
+### Contact & Community
+
+For questions, contributions, or community building around AI-assisted economic analysis for Pakistan:
+
+[Contact information to be added based on your preferences]
+
+---
+
+**Document Information**
+
+**Title**: Comprehensive Economics Prompts for Pakistan  
+**Version**: 1.0 (Generic Expert Roles)  
+**Date**: January 2026  
+**Author**: Dr. Zahid Asghar, Quaid-i-Azam University  
+**Next Review**: July 2026  
+
+**Key Features**:
+- 115 structured prompts across 13 economic domains
+- Generic expert role descriptions for timeless application
+- Comprehensive validation and quality control frameworks
+- Ethical guidelines for responsible AI-assisted analysis
+- Training and capacity building resources
+- Transparent limitations and appropriate use guidance
+
+**For Updates**: [Add repository URL or website when available]
+
+---
+
+**End of Document**

@@ -1,0 +1,484 @@
+/* Additional CSS styles for Data Analytics Workshop Presentation */
+
+/* Table styling */
+.reveal table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.8em;
+}
+
+.reveal table th {
+  background-color: #2C5F2D;
+  color: white;
+  font-weight: 600;
+  padding: 0.6em;
+  text-align: left;
+  border-bottom: 2px solid #1a472a;
+}
+
+.reveal table td {
+  padding: 0.5em;
+  border-bottom: 1px solid #ddd;
+}
+
+.reveal table tr:hover {
+  background-color: rgba(44, 95, 45, 0.05);
+}
+
+.reveal table tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+/* Callout boxes */
+.callout {
+  border-left: 5px solid #2C5F2D;
+  border-radius: 5px;
+  padding: 1em 1em 1em 1.5em;
+  margin: 1em 0;
+  background-color: rgba(44, 95, 45, 0.05);
+}
+
+.callout-important {
+  border-left-color: #d97706;
+  background-color: rgba(217, 119, 6, 0.08);
+}
+
+.callout-warning {
+  border-left-color: #dc2626;
+  background-color: rgba(220, 38, 38, 0.08);
+}
+
+.callout-note {
+  border-left-color: #0ea5e9;
+  background-color: rgba(14, 165, 233, 0.08);
+}
+
+.callout-tip {
+  border-left-color: #059669;
+  background-color: rgba(5, 150, 105, 0.08);
+}
+
+.callout h2 {
+  margin-top: 0;
+  font-size: 1.1em;
+  color: inherit;
+}
+
+/* Column layout */
+.columns {
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+}
+
+.column {
+  flex: 1;
+}
+
+/* Incremental lists enhancement */
+.reveal .incremental li {
+  opacity: 0.4;
+  transition: opacity 0.3s ease;
+}
+
+.reveal .incremental li.current-fragment {
+  opacity: 1;
+  font-weight: 600;
+}
+
+/* Emphasis styling */
+.reveal strong {
+  color: #2C5F2D;
+  font-weight: 700;
+}
+
+.reveal em {
+  color: #1a472a;
+  font-style: italic;
+}
+
+/* Slide backgrounds */
+.reveal section[data-background-color="#2C5F2D"] h1,
+.reveal section[data-background-color="#2C5F2D"] h2 {
+  color: white;
+}
+
+/* Code blocks */
+.reveal pre {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 0.65em;
+}
+
+.reveal code {
+  background-color: rgba(44, 95, 45, 0.1);
+  color: #2C5F2D;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-family: 'Courier New', monospace;
+}
+
+/* Links */
+.reveal a {
+  color: #2C5F2D;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.3s ease;
+}
+
+.reveal a:hover {
+  border-bottom-color: #2C5F2D;
+}
+
+/* Notes styling */
+.notes {
+  display: none;
+}
+
+/* Panel tabset (if used) */
+.panel-tabset {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 1em;
+  margin: 1em 0;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.panel-tabset .nav-tabs {
+  border-bottom: 2px solid #2C5F2D;
+  margin-bottom: 1em;
+}
+
+.panel-tabset .nav-link {
+  color: #2C5F2D;
+  border: none;
+  padding: 0.5em 1em;
+  cursor: pointer;
+}
+
+.panel-tabset .nav-link.active {
+  color: white;
+  background-color: #2C5F2D;
+  border-radius: 4px 4px 0 0;
+}
+
+/* Fit text class */
+.r-fit-text {
+  font-size: 2.5em !important;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+  color: white;
+}
+
+/* Numbered sections */
+.reveal ol {
+  counter-reset: item;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.reveal ol > li {
+  counter-increment: item;
+  margin-bottom: 0.5em;
+  padding-left: 1.5em;
+  position: relative;
+}
+
+.reveal ol > li::before {
+  content: counter(item);
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2C5F2D;
+  color: white;
+  width: 1.2em;
+  height: 1.2em;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 1.2em;
+  font-weight: 600;
+  font-size: 0.8em;
+}
+
+/* Checkboxes in lists */
+.reveal li input[type="checkbox"] {
+  margin-right: 0.5em;
+  width: 1.2em;
+  height: 1.2em;
+  vertical-align: middle;
+}
+
+/* Blockquotes */
+.reveal blockquote {
+  border-left: 4px solid #2C5F2D;
+  padding-left: 1em;
+  margin-left: 0;
+  font-style: italic;
+  color: #555;
+  background-color: rgba(44, 95, 45, 0.03);
+  padding: 1em;
+  border-radius: 0 4px 4px 0;
+}
+
+/* Small text class */
+.small-text {
+  font-size: 0.7em;
+  color: #666;
+}
+
+/* Highlight class */
+.highlight {
+  background-color: rgba(212, 175, 55, 0.3);
+  padding: 0.1em 0.3em;
+  border-radius: 2px;
+}
+
+/* Progress bar customization */
+.reveal .progress {
+  background-color: rgba(0, 0, 0, 0.1);
+  height: 4px;
+}
+
+.reveal .progress span {
+  background-color: #2C5F2D;
+  transition: width 0.3s ease;
+}
+
+/* Slide number styling */
+.reveal .slide-number {
+  background-color: rgba(44, 95, 45, 0.8);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 3px;
+  font-size: 0.8em;
+}
+
+/* Footer styling */
+.reveal .footer {
+  font-size: 0.6em;
+  color: #666;
+}
+
+/* Logo positioning */
+.reveal .slide-logo {
+  max-height: 60px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+/* Presenter mode notes enhancement */
+.speaker-notes {
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+
+/* Print-specific styles */
+@media print {
+  .reveal .slides {
+    width: 100% !important;
+    height: 100% !important;
+  }
+  
+  .reveal .slide-background {
+    background-color: white !important;
+  }
+  
+  .reveal h1, .reveal h2 {
+    color: #2C5F2D !important;
+  }
+}
+
+/* Accessibility improvements */
+.reveal :focus {
+  outline: 2px solid #2C5F2D;
+  outline-offset: 2px;
+}
+
+/* Grid layout helper */
+.grid-2col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2em;
+}
+
+.grid-3col {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.5em;
+}
+
+/* Status indicators */
+.status-good {
+  color: #059669;
+  font-weight: 600;
+}
+
+.status-warning {
+  color: #d97706;
+  font-weight: 600;
+}
+
+.status-critical {
+  color: #dc2626;
+  font-weight: 600;
+}
+
+/* Data table specific styling */
+.data-table {
+  font-size: 0.7em;
+  width: 100%;
+}
+
+.data-table th {
+  position: sticky;
+  top: 0;
+  background-color: #2C5F2D;
+  z-index: 10;
+}
+
+/* Fragment fade animations */
+.reveal .fragment.fade-in {
+  opacity: 0;
+}
+
+.reveal .fragment.fade-in.visible {
+  opacity: 1;
+}
+
+.reveal .fragment.fade-out {
+  opacity: 1;
+}
+
+.reveal .fragment.fade-out.visible {
+  opacity: 0;
+}
+
+/* Custom spacing utilities */
+.mt-1 { margin-top: 0.5em; }
+.mt-2 { margin-top: 1em; }
+.mt-3 { margin-top: 1.5em; }
+.mb-1 { margin-bottom: 0.5em; }
+.mb-2 { margin-bottom: 1em; }
+.mb-3 { margin-bottom: 1.5em; }
+
+/* Text alignment utilities */
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+
+/* Font weight utilities */
+.font-bold { font-weight: 700; }
+.font-normal { font-weight: 400; }
+.font-light { font-weight: 300; }
+
+/* Color utilities */
+.text-primary { color: #2C5F2D; }
+.text-secondary { color: #1a472a; }
+.text-accent { color: #D4AF37; }
+.text-muted { color: #666; }
+
+/* Background utilities */
+.bg-light { background-color: rgba(44, 95, 45, 0.05); }
+.bg-primary { background-color: #2C5F2D; color: white; }
+.bg-white { background-color: white; }
+
+/* Border utilities */
+.border-primary { border: 2px solid #2C5F2D; }
+.border-light { border: 1px solid #ddd; }
+
+/* Padding utilities */
+.p-1 { padding: 0.5em; }
+.p-2 { padding: 1em; }
+.p-3 { padding: 1.5em; }
+
+/* Box styling for key points */
+.key-point {
+  background-color: rgba(212, 175, 55, 0.15);
+  border: 2px solid #D4AF37;
+  border-radius: 8px;
+  padding: 1em;
+  margin: 1em 0;
+  font-weight: 500;
+}
+
+/* Decision box styling */
+.decision-box {
+  background-color: rgba(220, 38, 38, 0.08);
+  border-left: 4px solid #dc2626;
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 0 4px 4px 0;
+}
+
+.decision-box h3 {
+  margin-top: 0;
+  color: #dc2626;
+}
+
+/* Case study styling */
+.case-study {
+  background-color: rgba(14, 165, 233, 0.08);
+  border: 1px solid #0ea5e9;
+  border-radius: 8px;
+  padding: 1.5em;
+  margin: 1em 0;
+}
+
+.case-study-title {
+  font-weight: 700;
+  color: #0ea5e9;
+  margin-bottom: 0.5em;
+  font-size: 1.1em;
+}
+
+/* Analytics error tags */
+.error-tag {
+  display: inline-block;
+  padding: 0.3em 0.6em;
+  background-color: #dc2626;
+  color: white;
+  border-radius: 4px;
+  font-size: 0.8em;
+  font-weight: 600;
+  margin: 0.2em;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .reveal .columns {
+    flex-direction: column;
+  }
+  
+  .grid-2col,
+  .grid-3col {
+    grid-template-columns: 1fr;
+  }
+  
+  .reveal table {
+    font-size: 0.6em;
+  }
+}
+
+/* Animation for emphasis */
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+
+.pulse {
+  animation: pulse 2s infinite;
+}
+
+/* Hover effects for interactive elements */
+.reveal .slides section .clickable {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.reveal .slides section .clickable:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}

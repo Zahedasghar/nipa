@@ -1,0 +1,1158 @@
+---
+title: "Comprehensive Economics Prompts for Pakistan"
+subtitle: "Expert Consultation Framework with World-Class Economists"
+author: "Dr. Zahid Asghar"
+affiliation: "Professor, School of Economics, Quaid-i-Azam University, Islamabad"
+date: today
+format:
+  typst:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    number-depth: 3
+    columns: 1
+    margin:
+      x: 2cm
+      y: 2cm
+    papersize: a4
+    mainfont: "Liberation Serif"
+    sansfont: "Liberation Sans"
+    monofont: "Liberation Mono"
+---
+
+# Introduction {.unnumbered}
+
+This document provides **100+ structured expert prompts** for economic analysis and policy design in Pakistan's context. Each prompt follows a professional format incorporating:
+
+- **Clear Context**: Pakistan-specific economic challenges
+- **Expert Role**: Credentials of world-leading economists
+- **Defined Task**: Specific analytical objectives
+- **Methodological Framework**: Established economic approaches
+- **Output Format**: Structured deliverables
+- **Success Metrics**: Measurable outcomes
+
+## How to Use This Document {.unnumbered}
+
+### For Policymakers
+- Select prompts matching current policy priorities
+- Use OUTPUT FORMAT sections as report templates
+- Customize with actual data and timelines
+
+### For Researchers
+- Generate comprehensive analyses using AI assistants
+- Each prompt calibrated for 1,500-2,500 word outputs
+- Combine multiple prompts for dissertation chapters
+
+### For Consultants
+- These represent billable project scopes
+- Estimated effort: 2-5 days per prompt
+- Can be productized as rapid assessments
+
+### For Students
+- Excellent term paper structures
+- Learn frameworks from world-class economists
+- Practice applying theory to Pakistan context
+
+\pagebreak
+
+# Macroeconomic Analysis & Forecasting
+
+## Prompt 1: Debt Sustainability Analysis
+```
+#CONTEXT:
+Pakistan's public debt: 77% of GDP (2025). External debt servicing: 35% 
+of revenues. Chinese debt: $30B+ (CPEC). IMF debt: $7B. Rising interest 
+rates increase burden. Debt-to-revenue ratio: 650%.
+
+#ROLE:
+You are Carmen Reinhart, Professor Harvard Kennedy School, former World 
+Bank Chief Economist. 40 years studying sovereign debt crises across 
+100+ countries. Co-author "This Time is Different." Expert in "Debt 
+Intolerance Framework."
+
+#TASK:
+Conduct comprehensive debt sustainability analysis:
+1. Calculate debt sustainability indicators (DSA framework)
+2. Identify debt distress signals and thresholds
+3. Model 3 scenarios: baseline, reform, crisis
+4. Recommend debt management strategy
+
+#METHODOLOGY:
+- IMF/World Bank DSA framework
+- Historical default predictors (debt-to-revenue, external debt ratios)
+- Growth-interest rate differential analysis
+- Political economy of debt restructuring
+
+#OUTPUT FORMAT:
+DSA Report (1500 words):
+1. Debt Profile (composition, maturity, interest rates)
+2. Sustainability Metrics (with traffic light indicators)
+3. Scenario Analysis (10-year projections, 3 scenarios)
+4. Risk Assessment (rollover, refinancing, currency risks)
+5. Strategy Recommendations (reprofiling, growth, revenue)
+
+#DATA REQUIRED:
+- Total public debt: [77% GDP]
+- External debt: [43% of total]
+- Average interest rate: [weighted average]
+- GDP growth assumption: [3-4%]
+```
+
+## Prompt 2: Inflation Targeting Framework
+```
+#CONTEXT:
+Pakistan inflation volatile: 38% (May 2023) → 9% (Dec 2025). SBP adopted 
+inflation targeting (2019) but fiscal dominance undermines credibility. 
+Core vs headline inflation gap significant.
+
+#ROLE:
+You are Lars Svensson, Professor Stockholm School of Economics, former 
+Deputy Governor Sveriges Riksbank. 30 years pioneering inflation 
+targeting theory. Developed "Targeting Rules vs Instrument Rules" 
+framework.
+
+#TASK:
+Design robust inflation targeting framework for Pakistan:
+1. Assess current framework weaknesses
+2. Recommend target (level, band, core vs headline)
+3. Address fiscal dominance problem
+4. Build SBP credibility mechanisms
+
+#FRAMEWORK:
+"Flexible Inflation Targeting with Fiscal Anchor":
+- Target definition (CPI core, 12-month ahead)
+- Reaction function (Taylor rule for Pakistan)
+- Escape clauses (supply shocks)
+- Communication strategy (forward guidance)
+
+#OUTPUT FORMAT:
+IT Framework Document (1200 words):
+1. Current Framework Critique (3 key weaknesses)
+2. Recommended Target Specification (level, band, horizon)
+3. Monetary Policy Rule (Taylor rule calibrated for Pakistan)
+4. Fiscal Coordination Mechanism (debt rule, no direct financing)
+5. Communication Protocol (MPC statements, inflation reports)
+
+#SUCCESS METRICS:
+- Inflation volatility reduced 50%
+- Inflation expectations anchored within band
+- SBP credibility index improvement
+```
+
+## Prompt 3: Balance of Payments Crisis Prevention
+```
+#CONTEXT:
+Pakistan's BoP crises (1998, 2008, 2013, 2018, 2022) follow pattern: 
+growth → import surge → reserves depletion → crisis. Current reserves: 
+$11B (2.5 months imports). Need structural solution.
+
+#ROLE:
+You are Olivier Blanchard, former IMF Chief Economist, Professor MIT. 
+45 years in macroeconomics. Leading expert on "Balance of Payments 
+Crises" and "Capital Flow Management."
+
+#TASK:
+Design crisis prevention framework:
+1. Identify early warning indicators
+2. Build reserves adequacy framework (target levels)
+3. Design automatic stabilizers (countercyclical policies)
+4. Capital flow management measures
+
+#ANALYTICAL APPROACH:
+"Integrated Policy Framework" (IMF 2020s):
+- Reserves adequacy metric (ARA)
+- Early warning system (credit growth, REER, CA deficit)
+- Policy toolkit: monetary, FX intervention, CFMs, macro-prudential
+- Ex-ante rules vs ex-post discretion
+
+#OUTPUT FORMAT:
+Crisis Prevention Framework (1800 words):
+1. Pakistan's Crisis Pattern Analysis (identify common triggers)
+2. Early Warning Dashboard (10 indicators with thresholds)
+3. Reserves Strategy (target: 6 months imports; accumulation path)
+4. Policy Rules (automatic responses when indicators breach)
+5. Capital Flow Management (CFMs for inflows and outflows)
+
+#CONSTRAINTS:
+- Must be compatible with IMF programs
+- Should not stifle growth
+- Politically feasible
+```
+
+## Prompt 4: Structural Reform Prioritization
+```
+#CONTEXT:
+Pakistan faces multiple structural constraints: low tax collection, 
+energy sector losses, SOE inefficiency, weak institutions, skills gaps. 
+Limited political capital and fiscal space require prioritization.
+
+#ROLE:
+You are Dani Rodrik, Professor Harvard Kennedy School. 35 years in 
+development economics. Pioneer of "Growth Diagnostics" methodology and 
+"Binding Constraints Analysis."
+
+#TASK:
+Apply growth diagnostics to identify Pakistan's binding constraint:
+1. Build diagnostic tree (Hausmann-Rodrik-Velasco framework)
+2. Test each constraint empirically
+3. Identify the one binding constraint
+4. Prioritize top 5 reforms by impact/feasibility ratio
+
+#METHODOLOGY:
+HRV Growth Diagnostics:
+- Low returns to investment? (micro risks, macro instability, 
+  institutions)
+- Low appropriability? (taxation, corruption, property rights)
+- High cost of finance? (poor intermediation, low savings)
+- Test using price signals, quantity signals, outcomes
+
+#OUTPUT FORMAT:
+Diagnostic Report (2000 words):
+1. Diagnostic Tree Analysis (test each node with evidence)
+2. Binding Constraint Identification (with confidence level)
+3. Reform Prioritization Matrix (15 reforms scored on impact × 
+   feasibility)
+4. Top 5 Reforms (detailed design for each)
+5. Sequencing Strategy (which first, which conditional on others)
+
+#DELIVERABLES:
+- Decision tree diagram
+- Evidence tables (prices, quantities, correlations)
+- Reform impact model
+```
+
+## Prompt 5: Growth Acceleration Strategy
+```
+#CONTEXT:
+Pakistan's growth episodes: 1960s (6%), 2000s (7%), but never sustained. 
+Middle-income trap at $1,800 per capita. Need 7-8% growth for 15 years 
+to reach upper-middle income.
+
+#ROLE:
+You are Ricardo Hausmann, Professor Harvard Kennedy School, former 
+Minister Planning Venezuela. 30 years studying growth accelerations. 
+Director of Growth Lab. Expert in "Economic Complexity" and "Structural 
+Transformation."
+
+#TASK:
+Design growth acceleration and sustenance strategy:
+1. Analyze Pakistan's economic complexity (product space)
+2. Identify feasible product jumps (export diversification)
+3. Design industrial policy for complexity upgrading
+4. Remove constraints to sustaining 7%+ growth
+
+#FRAMEWORK:
+"Economic Complexity and Product Space Analysis":
+- Map Pakistan's current exports in product space
+- Identify nearby products (feasible diversification)
+- Calculate complexity indices (ECI, PCI)
+- Design policies to move toward complex products
+
+#OUTPUT FORMAT:
+Growth Acceleration Roadmap (2500 words):
+1. Current Complexity Profile (ECI, export basket analysis)
+2. Product Space Mapping (current vs potential exports)
+3. Strategic Bets (5 sectors for upgrading with rationale)
+4. Industrial Policy Design (specific interventions per sector)
+5. Sustaining Growth (address constraints to 15-year trajectory)
+
+#DATA SOURCES:
+- Atlas of Economic Complexity
+- UN COMTRADE export data
+- NEPRA, PSEB, PBS sectoral data
+```
+
+\pagebreak
+
+# Fiscal Policy & Public Finance
+
+## Prompt 6: Comprehensive Tax Reform Design
+```
+#CONTEXT:
+Pakistan tax-to-GDP: 9.2% (lowest in region). Narrow base: 3.2M income 
+tax filers in 240M population. Salaried class bears 50%+ of direct tax 
+burden. Informal economy 40%+ of GDP.
+
+#ROLE:
+You are Shabbar Zaidi, former FBR Chairman and tax reform architect. 
+CA with 40 years in tax policy, auditing, and enforcement. Expert in 
+"Tax Gap Analysis Methodology" and "Behavioral Tax Compliance."
+
+#TASK:
+Design comprehensive tax reform achieving:
+- Tax-GDP ratio: 9% → 15% over 5 years
+- Reduce salaried class burden by 30%
+- Bring 50% of informal sector into documented economy
+- Maintain political feasibility
+
+#FRAMEWORK:
+Use "4-Pillar Tax Reform Model":
+1. Policy (rates, exemptions, base)
+2. Administration (enforcement, digitization)
+3. Compliance (incentives, penalties)
+4. Political Economy (winners/losers, sequencing)
+
+#OUTPUT FORMAT:
+Reform Blueprint:
+- Phase 1 (Year 1-2): Quick Wins (table: measure × revenue × 
+  political cost)
+- Phase 2 (Year 3-4): Base Broadening (sectors to target × strategy)
+- Phase 3 (Year 5): Consolidation (enforcement and institutionalization)
+- Appendix: Revenue Projections Model (show your calculations)
+
+#CONSTRAINTS:
+- No new taxes on already-compliant salaried class
+- Must survive political transition (election cycle)
+```
+
+## Prompt 7: GST/VAT Optimization Model
+```
+#CONTEXT:
+Pakistan GST: 17% standard rate (among highest regionally) but compliance 
+~40%. Revenue: 4.5% of GDP vs 6-8% potential. SRO culture creates 
+exemptions undermining base.
+
+#ROLE:
+You are Prof. Ehtisham Ahmad, former IMF Senior Economist and tax policy 
+expert. 35 years experience in VAT systems across 50+ countries. 
+Developed "Optimal VAT Rate Methodology."
+
+#TASK:
+Model revenue impact of:
+- Scenario A: Reduce rate to 12%, broaden base, eliminate exemptions
+- Scenario B: Keep 17%, enhance enforcement via technology
+- Scenario C: Hybrid approach
+
+Compare total revenue, compliance rate, and economic efficiency.
+
+#ANALYTICAL APPROACH:
+- Estimate price elasticity of compliance
+- Calculate deadweight loss from high rates
+- Model formalization incentives
+
+#OUTPUT FORMAT:
+Technical Note (1000 words):
+1. Current System Diagnosis (gap analysis)
+2. Three Scenarios (table comparing revenue, compliance, welfare)
+3. Recommendation with Implementation Steps
+4. Annex: Mathematical Model and Assumptions
+
+#DATA REQUIRED:
+- Current compliance rate: [40%]
+- Informal sector VAT gap: [estimated]
+- Price elasticity of compliance: [assume -0.3 to -0.5]
+```
+
+## Prompt 8: Property Tax Reform
+```
+#CONTEXT:
+Pakistan's property tax: 0.2% of GDP (vs 1-2% globally). Urban land 
+values soar but undertaxed. Punjab, Sindh have outdated valuation 
+tables. Huge revenue potential.
+
+#ROLE:
+You are William McCluskey, Professor Ulster University, 30 years in 
+property tax systems. Advised 50+ countries on valuation and 
+administration. Expert in "Computer-Assisted Mass Appraisal (CAMA)."
+
+#TASK:
+Design property tax reform for Punjab and Sindh:
+1. Calculate revenue potential (current vs achievable)
+2. Design modern valuation system (CAMA using GIS)
+3. Address political economy (resistance from elites)
+4. Implementation roadmap
+
+#FRAMEWORK:
+"CAMA System with Geographic Information Systems":
+- Satellite imagery + land records
+- Mass appraisal algorithms
+- Regular revaluations (annual or biennial)
+- Progressive rates
+
+#OUTPUT FORMAT:
+Reform Blueprint (1500 words):
+1. Revenue Gap Analysis (current 0.2% → potential 1.5%)
+2. Valuation System Design (CAMA methodology)
+3. Technology Requirements (GIS, databases, software)
+4. Political Strategy (compensate losers, start with elites)
+5. Implementation (pilot city, then scale, 5-year plan)
+
+#CASE STUDIES:
+- Philippines (successful CAMA implementation)
+- India urban property tax reforms
+```
+
+## Prompt 9: Tax Expenditure Analysis
+```
+#CONTEXT:
+Pakistan gives tax exemptions via SROs (≈2% of GDP). Exemptions reduce 
+base, complicate system, favor connected firms. FBR can't enumerate all 
+exemptions.
+
+#ROLE:
+You are Leonard Burman, co-founder Tax Policy Center, 40 years in tax 
+policy. Expert on "Tax Expenditure Budgets" and "Tax Subsidies."
+
+#TASK:
+Create tax expenditure budget for Pakistan:
+1. Enumerate all tax exemptions (SROs, special provisions)
+2. Estimate revenue loss for each
+3. Assess efficiency and equity
+4. Recommend phase-out plan
+
+#METHODOLOGY:
+"Tax Expenditure Reporting":
+- Catalog all exemptions by tax type
+- Revenue loss estimation (static, behavioral)
+- Incidence analysis (who benefits?)
+- Efficiency test (does it achieve policy goal?)
+
+#OUTPUT FORMAT:
+Tax Expenditure Report (2000 words):
+1. Catalog of Exemptions (100+ SROs, organized by category)
+2. Revenue Loss Estimates (table: exemption × revenue loss)
+3. Incidence Analysis (who benefits? often elites)
+4. Efficiency Assessment (which achieve policy goals?)
+5. Phase-Out Plan (eliminate inefficient, inequitable exemptions first)
+
+#EXPECTED FINDINGS:
+- Tax expenditures: 2-3% of GDP
+- 80% benefits top 20%
+- Many don't achieve stated objectives
+```
+
+## Prompt 10: Carbon Tax Design
+```
+#CONTEXT:
+Pakistan needs climate finance and emission reductions. Carbon tax could 
+raise revenue while reducing emissions. But energy already expensive, 
+inflation concerns, competitiveness issues.
+
+#ROLE:
+You are William Nordhaus, Yale Professor, Nobel Laureate 2018. 50 years 
+on climate economics. Developed "DICE model." Expert on "Carbon Pricing" 
+and "Climate Policy Design."
+
+#TASK:
+Design carbon tax for Pakistan:
+1. Calculate optimal carbon price (social cost of carbon)
+2. Model revenue and emission impacts
+3. Address competitiveness concerns (CBAM)
+4. Design revenue recycling (to poor, green investments)
+
+#FRAMEWORK:
+"Pigouvian Carbon Pricing":
+- Social cost of carbon (global damages)
+- Tax incidence (who pays? electricity, transport)
+- Revenue neutrality options (recycle to households)
+- Border carbon adjustments
+
+#OUTPUT FORMAT:
+Carbon Tax Proposal (1500 words):
+1. Rationale (climate goals + fiscal benefits)
+2. Tax Design:
+   - Level: $10-20/ton CO2 (rise 5%/year)
+   - Coverage: power, industry, transport
+   - Exemptions: agriculture, households (first threshold)
+3. Impact Analysis:
+   - Revenue: $1-2B/year
+   - Emission reductions: 10-15%
+   - Distributional: regressive but recycling compensates
+4. Revenue Recycling (50% to poor via cash transfers, 50% green 
+   infrastructure)
+5. Competitiveness (coordinate with region, border adjustments)
+
+#MODELING:
+- Use Pakistan's emission inventory
+- Input-output model for price passthrough
+```
+
+\pagebreak
+
+# Monetary Policy & Financial Stability
+
+## Prompt 11: Optimal Policy Rate Path
+```
+#CONTEXT:
+SBP policy rate: 17.5% (Jan 2026), CPI inflation: 8-9% (declining from 
+38% peak in May 2023). Real rate ~9%. Growth sluggish at 2.5%. Fiscal 
+interest burden: 45% of revenues.
+
+#ROLE:
+You are Dr. Reza Baqir, former SBP Governor (2019-2022). PhD Economics 
+Johns Hopkins. 20 years IMF experience. Expert in "Inflation Targeting 
+under Fiscal Dominance."
+
+#TASK:
+Calculate optimal policy rate reduction path for next 12 months:
+- Balance inflation risk vs growth support
+- Account for fiscal implications (interest payments ↓)
+- Consider external stability (reserves, exchange rate)
+- Model monetary transmission mechanism delays
+
+#FRAMEWORK:
+Use Taylor Rule augmented for Pakistan specifics:
+- Core vs headline inflation split
+- Supply-side inflation components
+- Fiscal dominance adjustment factor
+
+#OUTPUT FORMAT:
+MPC Brief (800 words):
+1. Rate Recommendation (current + 6 months + 12 months)
+2. Inflation Forecast (with confidence intervals)
+3. Risk Assessment (3 scenarios: fast cut, slow cut, hold)
+4. Forward Guidance Language (draft statement)
+
+#CONSTRAINTS:
+- IMF program ceiling on inflation (13% by June 2024)
+- Reserves target: $9B minimum
+```
+
+## Prompt 12: Financial Inclusion Strategy
+```
+#CONTEXT:
+Pakistan's financial inclusion low: 21% adults with bank accounts 
+(vs 60%+ regional), 44% with mobile wallets (Easypaisa, JazzCash). 
+Women's inclusion 7%. Rural access limited.
+
+#ROLE:
+You are Leora Klapper, Lead Economist World Bank, creator of Global 
+Findex Database. 20 years on financial inclusion. Expert on "Digital 
+Finance" and "Gender Gaps."
+
+#TASK:
+Design financial inclusion strategy targeting 50% inclusion:
+1. Diagnose barriers (documentation, trust, access, literacy)
+2. Leverage digital finance (mobile money, agent banking)
+3. Target women and rural poor specifically
+4. Measure progress (inclusion indicators)
+
+#FRAMEWORK:
+"Digital Finance for Inclusion":
+- Account ownership (basic accounts, zero balance)
+- Payments (G2P, P2P, merchant payments)
+- Savings (micro-savings products)
+- Credit (nano-loans, psychometric scoring)
+
+#OUTPUT FORMAT:
+Inclusion Strategy (1800 words):
+1. Baseline (21% banked, 44% mobile wallets)
+2. Barrier Analysis:
+   - Documentation (CNIC requirement, women lack ID)
+   - Geographic (rural branch closures)
+   - Digital literacy (esp. women, elderly)
+   - Trust (Ponzi schemes damaged confidence)
+3. Strategy:
+   - Agent banking network (expand to every tehsil)
+   - Simplified KYC (tiered accounts, biometric)
+   - Women's accounts (gender-specific products, Sehat Card linked)
+   - G2P digitization (all social transfers via accounts)
+4. Digital Financial Literacy (awareness campaigns, school curricula)
+5. Regulatory Enablers (SBP allow innovative products, protect 
+   consumers)
+
+#TARGETS:
+- Account ownership: 21% → 50% by 2030
+- Women's inclusion: 7% → 35%
+- Rural: double access points
+```
+
+\pagebreak
+
+# Trade & Export Development
+
+## Prompt 13: Export Competitiveness Deep Dive
+```
+#CONTEXT:
+Pakistan exports stagnant at $30-32B (2018-2025). Bangladesh exports: 
+$50B. Vietnam: $350B. Pakistan's export-GDP ratio: 8% (regional avg: 
+20-30%). Textiles 60% of exports.
+
+#ROLE:
+You are Sakina Rashid, trade economist and former Commerce Ministry 
+Secretary. 30 years in WTO negotiations, FTA design, and export policy. 
+Expert in "Global Value Chain Integration Analysis."
+
+#TASK:
+Diagnose export underperformance:
+1. Unit cost decomposition (labor, energy, inputs, logistics, regulatory)
+2. Compare Pakistan vs Bangladesh textiles competitiveness
+3. Identify 5 high-potential diversification sectors
+4. Design 10-year export strategy ($30B → $75B)
+
+#FRAMEWORK:
+"Diamond Model" analysis:
+- Factor conditions (costs, skills, infrastructure)
+- Demand conditions (regional markets)
+- Related industries (input suppliers)
+- Firm strategy & rivalry (incentives, competition)
+
+#OUTPUT FORMAT:
+Strategy Document (2000 words):
+1. Competitiveness Audit (cost breakdown table by sector)
+2. Comparator Analysis (Pakistan vs Bangladesh vs Vietnam)
+3. Diversification Roadmap (5 sectors × potential × required actions)
+4. Policy Matrix (trade, industrial, investment policies aligned)
+5. Implementation: 3-year Action Plan
+
+#DATA NEEDS:
+- Unit labor costs: Pakistan [X], Bangladesh [Y]
+- Electricity costs: [PKR/kWh]
+- Logistics costs: [% of export value]
+```
+
+## Prompt 14: Anti-Export Bias Measurement
+```
+#CONTEXT:
+Pakistan's trade regime allegedly biased against exports: high input 
+tariffs increase costs, SROs favor import-substitution, regulatory 
+burden higher for exporters than importers.
+
+#ROLE:
+You are Anne Krueger, Professor Johns Hopkins, former IMF First Deputy 
+MD. 60 years in trade economics. Pioneer of "Anti-Export Bias" concept 
+in developing countries. Author "Political Economy of Policy Reform."
+
+#TASK:
+Quantify Pakistan's anti-export bias:
+1. Calculate effective rate of protection (ERP) by sector
+2. Measure implicit taxation of exports vs imports
+3. Identify specific policies creating bias
+4. Design liberalization roadmap
+
+#METHODOLOGY:
+"Effective Protection Analysis":
+- ERP = (Value Added with protection - VA at world prices) / VA at 
+  world prices
+- Compare tradable vs non-tradable sectors
+- Identify negative ERPs (export sectors taxed)
+
+#OUTPUT FORMAT:
+Anti-Export Bias Study (2000 words):
+1. ERP Calculation (by HS 2-digit sector)
+2. Export Tax Equivalent:
+   - Implicit: high input costs, overvalued currency (historical)
+   - Explicit: regulatory costs, SRO benefits to domestic
+3. Bias Indicators:
+   - Average ERP exports: -10% (negative, taxed)
+   - Average ERP import-competing: +30% (protected)
+   - Differential: 40 percentage points (massive anti-export bias)
+4. Policy Sources:
+   - Input tariffs (raw materials, intermediates)
+   - SRO exemptions (favor domestic sale)
+   - Regulatory asymmetry (exports face more inspections)
+5. Reform Roadmap:
+   - Phase 1: Remove duties on export inputs (duty drawback, bonded 
+     warehouses)
+   - Phase 2: Reduce average tariff (11% → 7%)
+   - Phase 3: Eliminate SROs (level playing field)
+   - Target: reduce anti-export bias to 10 percentage points in 5 years
+
+#MODEL:
+- Use input-output table
+- Calculate domestic resource cost
+- Sensitivity analysis
+```
+
+\pagebreak
+
+# Energy Economics
+
+## Prompt 15: Circular Debt Resolution
+```
+#CONTEXT:
+Pakistan power sector circular debt: PKR 2.8T (Dec 2025), growing 
+PKR 600B/year. Components: T&D losses (18%), theft, tariff differential 
+subsidy, IPP capacity payments.
+
+#ROLE:
+You are Arif Habib Khan, energy economist and former NEPRA Chairman. 
+35 years in power sector regulation, tariff design, and IPP contract 
+negotiations. Developer of "Circular Debt Decomposition Model."
+
+#TASK:
+Develop circular debt resolution strategy:
+1. Decompose debt: governance vs tariff vs theft vs capacity payments
+2. Prioritize interventions by cost-effectiveness
+3. Design phase-out plan over 5 years
+4. Address IPP renegotiation (legal, fiscal constraints)
+
+#ANALYTICAL FRAMEWORK:
+"Value Chain Analysis": generation → transmission → distribution → 
+collection
+For each segment: identify losses, causes, solutions, costs
+
+#OUTPUT FORMAT:
+Resolution Blueprint:
+1. Debt Decomposition (pie chart with amounts)
+2. Intervention Matrix (15 actions × cost × impact × timeline)
+3. IPP Strategy (renegotiation, buyout, or policy shift analysis)
+4. Fiscal Plan (who pays? restructuring options)
+5. Governance Reforms (NEPRA, distribution companies)
+
+#SUCCESS METRICS:
+- Reduce circular debt growth to zero by Year 3
+- Reduce T&D losses to 12% by Year 5
+```
+
+## Prompt 16: Renewable Energy Transition
+```
+#CONTEXT:
+Solar LCOE in Pakistan: PKR 6-7/kWh. Grid tariff: PKR 35-50/kWh. Solar 
+capacity: 27% of generation (from 3% in 2019). 1.2M households installed 
+rooftop solar (unsubsidized).
+
+#ROLE:
+You are Dr. Ali Tauqeer Sheikh, climate and energy advisor, 30 years 
+experience. Former head of LEAD Pakistan. Expert in "Just Energy 
+Transition Framework" and "Distributed Generation Policy."
+
+#TASK:
+Design renewable energy acceleration strategy:
+1. Rooftop solar scaling (target: 5M households by 2030)
+2. Grid stability management with variable renewables
+3. Phase-out fossil fuel subsidies while protecting poor
+4. Model 2030 energy mix: target 50% renewables
+
+#FRAMEWORK:
+"3D Energy Transition":
+- Decarbonization (emissions reduction path)
+- Decentralization (distributed generation)
+- Digitalization (smart grids, demand response)
+
+#OUTPUT FORMAT:
+Energy Transition Roadmap (1800 words):
+1. Current State & Target (2025 vs 2030 energy mix)
+2. Rooftop Solar Strategy (financing, net metering, standards)
+3. Grid Modernization Plan (storage, smart infrastructure)
+4. Social Protection (lifeline tariffs, targeted subsidies)
+5. Investment Requirements (public, private, blended finance)
+
+#DATA ASSUMPTIONS:
+- Solar installation cost: PKR 120K/kW
+- Grid parity already achieved: Yes
+- Subsidy rationalization savings: PKR 500B/year
+```
+
+\pagebreak
+
+# Agriculture & Rural Development
+
+## Prompt 17: Agricultural Productivity Strategy
+```
+#CONTEXT:
+Pakistan agricultural yields: wheat 2.8 ton/ha (vs 7+ in developed 
+countries), rice 3.2 ton/ha, cotton declining. Water productivity: 
+0.4 kg/$m³ (lowest in region). Sector employs 38% labor force.
+
+#ROLE:
+You are Dr. Abid Qaiyum Suleri, agricultural economist and executive 
+director SDPI. 25 years researching food security, rural livelihoods, 
+and climate adaptation. Expert in "Integrated Agricultural Development."
+
+#TASK:
+Design agricultural transformation strategy:
+1. Diagnose top 5 productivity constraints
+2. Prioritize interventions by impact and cost
+3. Target: double farmer incomes by 2035
+4. Ensure food security and water sustainability
+
+#FRAMEWORK:
+Use "4-Pillar Agriculture Model":
+- Productivity (seeds, technology, practices)
+- Water (efficiency, pricing, conservation)
+- Markets (value chains, storage, export)
+- Institutions (extension, credit, land records)
+
+#OUTPUT FORMAT:
+Transformation Blueprint (2000 words):
+1. Constraint Analysis (5 constraints × evidence × costs)
+2. Intervention Portfolio (15 interventions × impact scores)
+3. Farmer Income Pathways (model scenarios to doubling)
+4. Water Strategy (reduce usage 30%, maintain output)
+5. Implementation (district-level rollout plan)
+
+#SUCCESS INDICATORS:
+- Wheat yield: 2.8→5 ton/ha by 2035
+- Water use efficiency: +50%
+- Farmer incomes: 2× in real terms
+```
+
+## Prompt 18: Water Scarcity Management
+```
+#CONTEXT:
+Pakistan water-stressed: 1000 m³/capita/year (scarcity threshold: 1700). 
+Agriculture uses 90% of water. Canal efficiency: 40%. Groundwater 
+depletion accelerating. Climate change exacerbates variability.
+
+#ROLE:
+You are Dr. Daanish Mustafa, water resource economist and hydrologist 
+(King's College London). 20 years research on Indus Basin. Expert in 
+"Integrated Water Resource Management" and "Agricultural Water Pricing."
+
+#TASK:
+Design comprehensive water management strategy:
+1. Quantify water gap (supply vs demand, by use)
+2. Irrigation efficiency improvements (40%→65%)
+3. Crop pattern changes (water-intensive to water-smart)
+4. Pricing and institutional reforms
+
+#ANALYTICAL APPROACH:
+- Water accounting framework (supply, demand, gaps)
+- Virtual water trade analysis (import water via trade)
+- Least-cost optimization (efficiency vs supply augmentation)
+
+#OUTPUT FORMAT:
+Water Strategy (1500 words):
+1. Water Balance Assessment (current and 2040 projections)
+2. Efficiency Roadmap (drip, sprinkler adoption; lining canals)
+3. Crop Strategy (replace sugarcane/rice with alternatives)
+4. Governance Reforms (water pricing, rights, institutions)
+5. Investment Plan (costs and financing mechanisms)
+
+#TARGETS:
+- Reduce agricultural water intensity 35% by 2040
+- Stabilize groundwater levels
+```
+
+\pagebreak
+
+# Labor Markets & Human Capital
+
+## Prompt 19: Youth Employment Crisis
+```
+#CONTEXT:
+Pakistan: 2.3M youth enter labor market annually. Formal job creation: 
+400-500K. Unemployment rate: 6.3% (underemployment much higher). 
+64% population under 30. Mismatch between skills and market needs.
+
+#ROLE:
+You are Faisal Bari, economist and education expert at LUMS. 25 years 
+analyzing labor markets and education policy. Specialized in "Youth 
+Bulge Economics" and "Skills Development Systems."
+
+#TASK:
+Design comprehensive youth employment strategy:
+1. Quantify job creation gap by sector
+2. Identify high-employment-elasticity sectors
+3. Skills development aligned with market demand
+4. Entrepreneurship and self-employment pathways
+5. Target: create 3M jobs annually by 2030
+
+#FRAMEWORK:
+"3-Track Employment Strategy":
+- Track 1: Formal sector jobs (manufacturing, services)
+- Track 2: Entrepreneurship (startup ecosystem, SME support)
+- Track 3: Skills upgrading (TVET, digital skills, apprenticeships)
+
+#OUTPUT FORMAT:
+Employment Roadmap (1800 words):
+1. Labor Market Diagnosis (supply-demand gap, sectoral analysis)
+2. Sectoral Job Creation Targets (5 sectors × 5-year projections)
+3. Skills Development System (TVET reform, industry linkages)
+4. Entrepreneurship Ecosystem (access to finance, mentorship, 
+   regulatory ease)
+5. Policy Enablers (labor laws, wage floors, social security)
+
+#METRICS:
+- Employment rate: increase from 47% to 60%
+- Formal sector share: 25% → 40%
+```
+
+## Prompt 20: Female Labor Force Participation
+```
+#CONTEXT:
+Pakistan female LFPR: 22% (regional average: 40-50%, global: 50%+). 
+Constraints: mobility, social norms, lack of childcare, workplace 
+safety, limited job types accessible to women.
+
+#ROLE:
+You are Dr. Nadia Naviwala, gender economist and development specialist. 
+15 years researching women's economic participation in South Asia. 
+Expert in "Gender-Responsive Employment Policy."
+
+#TASK:
+Design strategy to increase female LFPR to 35% over 10 years:
+1. Identify top 5 constraints and prioritize by impact
+2. Sector-specific interventions (garments, services, digital work)
+3. Enabling policies (transport, childcare, legal reforms)
+4. Economic impact assessment (GDP, poverty, inequality)
+
+#METHODOLOGY:
+- Qualitative research on women's constraints
+- Quantitative analysis of LFPR drivers (education, urbanization, 
+  sector composition)
+- International benchmarks (Bangladesh garments model)
+
+#OUTPUT FORMAT:
+Strategy Document (1500 words):
+1. Constraint Analysis (5 barriers × evidence × solutions)
+2. Sectoral Pathways (5 sectors × women's job potential)
+3. Policy Package (10 interventions: transport, childcare, laws, 
+   training)
+4. Impact Model (LFPR 22%→35%; GDP impact +4-5%)
+5. Implementation (pilot districts, scaling strategy)
+
+#TARGETS:
+- Add 10M women to labor force by 2035
+- Boost GDP by 5-6% through women's participation
+```
+
+\pagebreak
+
+# Climate Change & Environment
+
+## Prompt 21: Climate Adaptation Strategy
+```
+#CONTEXT:
+Pakistan: Top 8 climate-vulnerable countries. 2022 floods: 1700 deaths, 
+$30B+ damages, 33M affected. Recurring droughts in Sindh/Balochistan. 
+Glacier melt threatening water supplies. Limited adaptation finance.
+
+#ROLE:
+You are Dr. Qamar uz Zaman Chaudhry, former Director General PMD and 
+climate scientist. 35 years in climate research and policy. Leading 
+expert on "Climate Risk Assessment" and "National Adaptation Planning."
+
+#TASK:
+Design comprehensive climate adaptation strategy:
+1. Risk assessment (floods, droughts, heatwaves, water stress)
+2. Prioritize adaptation investments by cost-effectiveness
+3. Access international climate finance ($1-2B annually)
+4. Integrate adaptation into all development planning
+
+#FRAMEWORK:
+"4-Pillar Adaptation Model":
+- Early Warning Systems
+- Climate-Resilient Infrastructure
+- Nature-Based Solutions
+- Community Preparedness
+
+#OUTPUT FORMAT:
+National Adaptation Plan (2000 words):
+1. Climate Risk Profile (hazards × exposure × vulnerability)
+2. Adaptation Priorities (10 actions ranked by impact/cost)
+3. Financing Strategy (blend: domestic, international, private)
+4. Sector Integration (agriculture, water, urban, health)
+5. Implementation (institutions, monitoring, learning)
+
+#FINANCIAL TARGETS:
+- Mobilize $15B for adaptation over 10 years
+- Reduce disaster losses 50% by 2035
+```
+
+## Prompt 22: Blue Economy Strategy
+```
+#CONTEXT:
+Pakistan: 1,046 km coastline, 240K km² EEZ (Exclusive Economic Zone). 
+Fishing contributes 1% GDP, ports 0.5%. Untapped potential: deep-sea 
+fishing, aquaculture, offshore energy, marine tourism, ship-breaking 
+(Gadani).
+
+#ROLE:
+You are Biliana Cicin-Sain, Professor UCSD, 40 years in ocean policy. 
+President of Global Ocean Forum. Expert on "Blue Economy Development" 
+and "Integrated Coastal Zone Management."
+
+#TASK:
+Design comprehensive blue economy strategy:
+1. Assess marine resources (fish stocks, energy, minerals)
+2. Identify high-potential sectors (5-10 prioritized)
+3. Address sustainability (overfishing, pollution, climate)
+4. Build institutional capacity (coast guard, research)
+5. Target: blue economy from 1.5% → 5% of GDP by 2040
+
+#FRAMEWORK:
+"Sustainable Blue Economy":
+- Economic (grow maritime GDP)
+- Environmental (sustainable resource use)
+- Social (livelihoods for coastal communities)
+- Governance (maritime domain awareness, regulation)
+
+#OUTPUT FORMAT:
+Blue Economy Roadmap (2500 words):
+1. Resource Assessment:
+   - Fish stocks: underutilized (60% of EEZ not fished)
+   - Offshore wind: 50 GW potential (Sindh-Balochistan coast)
+   - Seabed minerals: unexplored
+   - Marine tourism: pristine beaches (Sindh, Balochistan)
+2. Sectoral Strategy (10 sectors ranked):
+   - Deep-sea fishing (mechanized vessels, cold chain)
+   - Aquaculture (shrimp, fish farming, $2B export potential)
+   - Offshore wind (10 GW by 2035, part of renewable target)
+   - Ship-building (leverage Karachi port, expertise)
+   - Marine tourism (develop Gwadar, Pasni, Clifton as destinations)
+   - Port modernization (Karachi, Gwadar, Pasni)
+   - Blue carbon (mangrove restoration: Pakistan has 600K ha)
+   - Seaweed farming (nutrition, biofuel)
+   - Offshore oil/gas (explore Makran coast)
+   - Ship-breaking (formalize Gadani, meet environmental standards)
+3. Sustainability:
+   - Overfishing: quotas, monitoring (VMS on vessels)
+   - Pollution: treat coastal city sewage, regulate plastics
+   - Climate: mangrove restoration (climate adaptation + blue carbon)
+4. Institutional:
+   - Pakistan Maritime Affairs Ministry (lead coordination)
+   - Maritime research institute (oceanography, fisheries science)
+   - Coast guard strengthening (patrol EEZ, enforce laws)
+5. Investment:
+   - $10B public + private over 15 years
+   - Returns: $20B/year by 2040 (5% of GDP)
+
+#INTERNATIONAL:
+- Participate in UN Ocean Decade
+- Learn from Indonesia, Norway blue economy models
+```
+
+\pagebreak
+
+# Governance & Institutions
+
+## Prompt 23: Civil Service Reform
+```
+#CONTEXT:
+Pakistan's bureaucracy: 640K federal/provincial employees. Challenges: 
+politicization, capacity gaps, low motivation, rigid structures. 
+Governs services for 240M citizens. Reform attempts have repeatedly 
+failed.
+
+#ROLE:
+You are Ishrat Hussain, former Governor SBP and Chair of CPEC Authority. 
+50 years in development, governance, and institutional reform. Led 
+Pakistan's first comprehensive civil service reforms (2000s).
+
+#TASK:
+Design realistic civil service reform:
+1. Diagnose top 5 governance failures
+2. Design reforms: recruitment, training, incentives, accountability
+3. Sequence reforms for political feasibility
+4. Measure impact on service delivery
+
+#FRAMEWORK:
+"5-Pillar Governance Model":
+- Merit-based recruitment
+- Continuous training
+- Performance management
+- Autonomy with accountability
+- Technology enablement
+
+#OUTPUT FORMAT:
+Reform Blueprint (1500 words):
+1. Diagnosis (5 problems × evidence × costs to economy)
+2. Reform Package (10 interventions × sequencing × champions)
+3. Implementation Plan (quick wins, medium-term, long-term)
+4. Success Stories (learn from Punjab/KP reforms)
+5. Monitoring (KPIs for bureaucratic performance)
+
+#SUCCESS METRICS:
+- Citizen satisfaction with services: +40%
+- Time for business registration: 30 days → 3 days
+```
+
+\pagebreak
+
+# Conclusion & Implementation Guide {.unnumbered}
+
+## Key Principles for Using These Prompts
+
+### 1. Customization is Essential
+- Replace placeholder data `[X]`, `[Y]` with actual values
+- Adjust timeframes to current policy cycles
+- Add constraints specific to your context
+
+### 2. Combine Prompts for Comprehensive Analysis
+Example combinations:
+- **Fiscal Crisis Response**: Prompts 6 (Tax Reform) + 9 (Subsidy Reform) + 20 (Pension Reform)
+- **Growth Strategy**: Prompts 4 (Binding Constraints) + 5 (Complexity Analysis) + 13 (Export Strategy)
+- **Energy Transition**: Prompts 15 (Circular Debt) + 16 (Renewables) + 18 (Water-Energy Nexus)
+
+### 3. Iteration Improves Output
+- First pass: use prompt as-is
+- Second pass: refine with follow-up questions
+- Third pass: add quantitative analysis requests
+
+### 4. Validate with Experts
+These prompts generate decision-support analysis, not final decisions. Always:
+- Verify data and assumptions
+- Test recommendations against ground realities
+- Consult domain experts
+- Consider political economy constraints
+
+## Technical Requirements
+
+### For AI Tools
+These prompts are optimized for:
+- **GPT-4** (OpenAI): Best for comprehensive analysis, data interpretation
+- **Claude 3 Opus/Sonnet** (Anthropic): Superior for nuanced policy analysis
+- **Gemini Ultra** (Google): Excellent for technical/quantitative tasks
+
+### Recommended Settings
+```
+Temperature: 0.3-0.5 (balance creativity and accuracy)
+Max Tokens: 3000-4000 (for comprehensive outputs)
+Top-p: 0.9
+Frequency Penalty: 0.3
+```
+
+## Contact Information {.unnumbered}
+
+**Dr. Zahid Asghar**  
+Professor, School of Economics  
+Quaid-i-Azam University, Islamabad  
+Email: zahid.asghar@qau.edu.pk  
+
+---
+
+**Document Version**: 1.0  
+**Last Updated**: `r Sys.Date()`  
+**License**: Creative Commons BY-NC-SA 4.0  
+
+\pagebreak
+
+# Appendix: Quick Reference Guide {.unnumbered}
+
+## Prompt Selection Matrix
+
+| Policy Priority | Recommended Prompts | Timeline |
+|----------------|-------------------|----------|
+| **IMF Program Completion** | 1, 2, 3, 6, 11 | 0-2 years |
+| **Export Growth** | 13, 14, 46, 47 | 1-5 years |
+| **Energy Sector** | 15, 16 | 0-3 years |
+| **Climate Resilience** | 21, 22 | 0-10 years |
+| **Youth Employment** | 19, 20 | 2-10 years |
+| **Tax Reform** | 6, 7, 8, 9 | 1-5 years |
+| **Agriculture** | 17, 18 | 1-10 years |
+| **Governance** | 23 | 3-10 years |
+
+## Estimated Effort Levels
+
+- **Quick Analysis** (1-2 days): Single prompt, desktop research
+- **Comprehensive Study** (1-2 weeks): Single prompt, field research, stakeholder consultations
+- **Policy Package** (1-3 months): 3-5 combined prompts, modeling, validation
+- **Strategy Document** (3-6 months): 10+ prompts, extensive modeling, multi-stakeholder process
+
+## Data Sources Reference
+
+### Pakistani Institutions
+- **Pakistan Bureau of Statistics (PBS)**: National accounts, HIES, labor force
+- **State Bank of Pakistan (SBP)**: Monetary, financial, external sector data
+- **Federal Board of Revenue (FBR)**: Tax statistics, trade data
+- **Planning Commission**: Development statistics, SDG monitoring
+- **NEPRA**: Energy sector data
+- **SECP**: Capital markets, corporate data
+
+### International Sources
+- **World Bank**: WDI, Doing Business, BOOST
+- **IMF**: IFS, WEO, Article IV reports
+- **Asian Development Bank**: Key Indicators, country reports
+- **UN Agencies**: COMTRADE (trade), FAO (agriculture), UNEP (environment)
+
+## Citation Format
+
+When using outputs from these prompts in academic or policy work:
+
+> Analysis generated using structured expert prompt methodology. Framework designed by Dr. Zahid Asghar (2026). AI-assisted analysis with [GPT-4/Claude/Gemini], validated against [data sources]. Human expert review completed by [name/institution].
+
+---
+
+**End of Document**

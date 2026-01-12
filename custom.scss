@@ -1,0 +1,159 @@
+/*-- scss:defaults --*/
+
+// Colors - Pakistan government theme
+$primary: #2C5F2D;
+$secondary: #1a472a;
+$accent: #D4AF37;
+$text-dark: #2d2d2d;
+$text-light: #f8f9fa;
+$warning: #d97706;
+$info: #0ea5e9;
+
+// Fonts
+$font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$presentation-heading-font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$presentation-font-size-root: 32px;
+
+/*-- scss:rules --*/
+
+// Title slide
+.reveal .slide-background-content {
+  background-size: cover;
+}
+
+.reveal h1 {
+  color: $primary;
+  font-weight: 700;
+  text-transform: none;
+  margin-bottom: 0.5em;
+}
+
+.reveal h2 {
+  color: $primary;
+  font-weight: 600;
+  text-transform: none;
+  margin-bottom: 0.5em;
+}
+
+.reveal h3 {
+  color: $secondary;
+  font-weight: 600;
+  font-size: 1.2em;
+}
+
+// Callout boxes
+.callout {
+  border-left: 5px solid $primary;
+  border-radius: 5px;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+.callout-important {
+  border-left-color: $warning;
+  background-color: rgba(217, 119, 6, 0.1);
+}
+
+.callout-warning {
+  border-left-color: $warning;
+  background-color: rgba(217, 119, 6, 0.1);
+}
+
+.callout-note {
+  border-left-color: $info;
+  background-color: rgba(14, 165, 233, 0.1);
+}
+
+.callout-tip {
+  border-left-color: $primary;
+  background-color: rgba(44, 95, 45, 0.1);
+}
+
+// Tables
+.reveal table {
+  font-size: 0.7em;
+  margin: 1em auto;
+}
+
+.reveal table th {
+  background-color: $primary;
+  color: $text-light;
+  font-weight: 600;
+  padding: 0.5em;
+}
+
+.reveal table td {
+  padding: 0.5em;
+  border-bottom: 1px solid #ddd;
+}
+
+// Lists
+.reveal ul, .reveal ol {
+  margin-left: 0;
+  padding-left: 1.5em;
+}
+
+.reveal li {
+  margin-bottom: 0.5em;
+}
+
+// Columns
+.columns {
+  display: flex;
+  gap: 2em;
+}
+
+.column {
+  flex: 1;
+}
+
+// Incremental lists
+.reveal .incremental li {
+  opacity: 0.5;
+}
+
+.reveal .incremental li.current-fragment {
+  opacity: 1;
+  font-weight: 600;
+}
+
+// Emphasis
+.reveal strong {
+  color: $primary;
+  font-weight: 700;
+}
+
+.reveal em {
+  color: $secondary;
+  font-style: italic;
+}
+
+// Code blocks
+.reveal pre {
+  font-size: 0.6em;
+  box-shadow: none;
+  border: 1px solid #ddd;
+}
+
+.reveal code {
+  color: $secondary;
+  background-color: rgba(44, 95, 45, 0.1);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+}
+
+// Panel tabset
+.panel-tabset {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+// Fit text
+.r-fit-text {
+  font-size: 3em !important;
+  font-weight: 700;
+  color: $text-light;
+  text-align: center;
+}
